@@ -3,7 +3,7 @@
     "name": "The Love Club",
     "time": "3:21",
     "artist": "Lorde",
-    "album": "Pure Heroine (Extended)",
+    "album": "Pure Heroine",
     "genre": "Pop",
     "count": "136",
     "year": "2013"
@@ -12,7 +12,7 @@
     "name": "Bravado",
     "time": "3:41",
     "artist": "Lorde",
-    "album": "Pure Heroine (Extended)",
+    "album": "Pure Heroine",
     "genre": "Pop",
     "count": "84",
     "year": "2013"
@@ -30,7 +30,7 @@
     "name": "Glory and Gore",
     "time": "3:31",
     "artist": "Lorde",
-    "album": "Pure Heroine (Extended)",
+    "album": "Pure Heroine",
     "genre": "Pop",
     "count": "83",
     "year": "2013"
@@ -48,7 +48,7 @@
     "name": "Magnets (feat. Lorde)",
     "time": "3:19",
     "artist": "Disclosure",
-    "album": "Caracal (Deluxe)",
+    "album": "Caracal",
     "genre": "Electronic",
     "count": "78",
     "year": "2015"
@@ -83,7 +83,7 @@
   {
     "name": "Jesus Walks",
     "time": "3:14",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "The College Dropout",
     "genre": "Hip-Hop/Rap",
     "count": "71",
@@ -92,7 +92,7 @@
   {
     "name": "Champion",
     "time": "2:48",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "Graduation",
     "genre": "Hip-Hop/Rap",
     "count": "71",
@@ -101,7 +101,7 @@
   {
     "name": "Stronger",
     "time": "5:12",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "Graduation",
     "genre": "Hip-Hop/Rap",
     "count": "70",
@@ -110,7 +110,7 @@
   {
     "name": "Everything I Am (feat. DJ Premier)",
     "time": "3:48",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "Graduation",
     "genre": "Hip-Hop/Rap",
     "count": "70",
@@ -119,7 +119,7 @@
   {
     "name": "Gold Digger (feat. Jamie Foxx)",
     "time": "3:28",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "Late Registration",
     "genre": "Hip-Hop/Rap",
     "count": "70",
@@ -128,7 +128,7 @@
   {
     "name": "Flashing Lights (feat. Dwele)",
     "time": "3:58",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "Graduation",
     "genre": "Hip-Hop/Rap",
     "count": "69",
@@ -146,7 +146,7 @@
   {
     "name": "Good Morning",
     "time": "3:15",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "Graduation",
     "genre": "Hip-Hop/Rap",
     "count": "68",
@@ -173,7 +173,7 @@
   {
     "name": "I Wonder",
     "time": "4:03",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "Graduation",
     "genre": "Hip-Hop/Rap",
     "count": "66",
@@ -182,7 +182,7 @@
   {
     "name": "Homecoming (feat. Chris Martin)",
     "time": "3:23",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "Graduation",
     "genre": "Hip-Hop/Rap",
     "count": "66",
@@ -191,7 +191,7 @@
   {
     "name": "Barry Bonds (feat. Lil Wayne)",
     "time": "3:24",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "Graduation",
     "genre": "Hip-Hop/Rap",
     "count": "65",
@@ -207,27 +207,27 @@
     "year": "2013"
   },
   {
-    "name": "Can't Tell Me Nothing",
-    "time": "4:32",
-    "artist": "Kanye West",
+    "name": "Good Life (feat. T-Pain)",
+    "time": "3:27",
+    "artist": "Ye",
     "album": "Graduation",
     "genre": "Hip-Hop/Rap",
     "count": "64",
     "year": "2007"
   },
   {
-    "name": "Good Life (feat. T-Pain)",
-    "time": "3:27",
-    "artist": "Kanye West",
+    "name": "Can't Tell Me Nothing",
+    "time": "4:32",
+    "artist": "Ye",
     "album": "Graduation",
     "genre": "Hip-Hop/Rap",
-    "count": "63",
+    "count": "64",
     "year": "2007"
   },
   {
     "name": "The Glory",
     "time": "3:33",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "Graduation",
     "genre": "Hip-Hop/Rap",
     "count": "63",
@@ -236,7 +236,7 @@
   {
     "name": "Through the Wire",
     "time": "3:41",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "The College Dropout",
     "genre": "Hip-Hop/Rap",
     "count": "62",
@@ -246,7 +246,7 @@
     "name": "400 Lux",
     "time": "3:54",
     "artist": "Lorde",
-    "album": "Pure Heroine (Extended)",
+    "album": "Pure Heroine",
     "genre": "Pop",
     "count": "62",
     "year": "2013"
@@ -255,7 +255,7 @@
     "name": "Team",
     "time": "3:13",
     "artist": "Lorde",
-    "album": "Pure Heroine (Extended)",
+    "album": "Pure Heroine",
     "genre": "Pop",
     "count": "62",
     "year": "2013"
@@ -290,7 +290,7 @@
   {
     "name": "Good Night (feat. Mos Def & Al Be Back)",
     "time": "3:06",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "Graduation",
     "genre": "Hip-Hop/Rap",
     "count": "61",
@@ -299,11 +299,20 @@
   {
     "name": "All Falls Down (feat. Syleena Johnson)",
     "time": "3:44",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "The College Dropout",
     "genre": "Hip-Hop/Rap",
     "count": "60",
     "year": "2004"
+  },
+  {
+    "name": "Sober",
+    "time": "3:17",
+    "artist": "Lorde",
+    "album": "Melodrama",
+    "genre": "Alternative",
+    "count": "60",
+    "year": "2017"
   },
   {
     "name": "The Mating Game",
@@ -322,15 +331,6 @@
     "genre": "Pop",
     "count": "59",
     "year": "2003"
-  },
-  {
-    "name": "Sober",
-    "time": "3:17",
-    "artist": "Lorde",
-    "album": "Melodrama",
-    "genre": "Alternative",
-    "count": "59",
-    "year": "2017"
   },
   {
     "name": "breathin",
@@ -353,7 +353,7 @@
   {
     "name": "Drunk and Hot Girls (feat. Mos Def)",
     "time": "5:13",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "Graduation",
     "genre": "Hip-Hop/Rap",
     "count": "57",
@@ -362,7 +362,7 @@
   {
     "name": "Power",
     "time": "4:52",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "My Beautiful Dark Twisted Fantasy",
     "genre": "Hip-Hop/Rap",
     "count": "57",
@@ -371,7 +371,7 @@
   {
     "name": "Runaway (feat. Pusha T)",
     "time": "9:08",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "My Beautiful Dark Twisted Fantasy",
     "genre": "Hip-Hop/Rap",
     "count": "57",
@@ -398,37 +398,10 @@
   {
     "name": "Monster (feat. Jay-Z, Rick Ross, Nicki Minaj & Bon Iver)",
     "time": "6:19",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "My Beautiful Dark Twisted Fantasy",
     "genre": "Hip-Hop/Rap",
     "count": "54",
-    "year": "2010"
-  },
-  {
-    "name": "4Æm",
-    "time": "4:31",
-    "artist": "Grimes",
-    "album": "Miss Anthropocene (Deluxe Edition)",
-    "genre": "Electronic",
-    "count": "53",
-    "year": "2019"
-  },
-  {
-    "name": "We Don't Care",
-    "time": "4:00",
-    "artist": "Kanye West",
-    "album": "The College Dropout",
-    "genre": "Hip-Hop/Rap",
-    "count": "53",
-    "year": "2004"
-  },
-  {
-    "name": "All of the Lights",
-    "time": "5:00",
-    "artist": "Kanye West",
-    "album": "My Beautiful Dark Twisted Fantasy",
-    "genre": "Hip-Hop/Rap",
-    "count": "53",
     "year": "2010"
   },
   {
@@ -437,8 +410,35 @@
     "artist": "Lorde",
     "album": "Tennis Court - Single",
     "genre": "Alternative",
-    "count": "53",
+    "count": "54",
     "year": "2013"
+  },
+  {
+    "name": "4Æm",
+    "time": "4:31",
+    "artist": "Grimes",
+    "album": "Miss Anthropocene",
+    "genre": "Electronic",
+    "count": "53",
+    "year": "2019"
+  },
+  {
+    "name": "We Don't Care",
+    "time": "4:00",
+    "artist": "Ye",
+    "album": "The College Dropout",
+    "genre": "Hip-Hop/Rap",
+    "count": "53",
+    "year": "2004"
+  },
+  {
+    "name": "All of the Lights",
+    "time": "5:00",
+    "artist": "Ye",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "genre": "Hip-Hop/Rap",
+    "count": "53",
+    "year": "2010"
   },
   {
     "name": "Time Is Up (feat. Diplo)",
@@ -479,7 +479,7 @@
   {
     "name": "Get Em High (feat. Talib Kweli & Common)",
     "time": "4:49",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "The College Dropout",
     "genre": "Hip-Hop/Rap",
     "count": "52",
@@ -524,7 +524,7 @@
   {
     "name": "Big Brother",
     "time": "4:48",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "Graduation",
     "genre": "Hip-Hop/Rap",
     "count": "51",
@@ -579,7 +579,7 @@
     "name": "Tennis Court",
     "time": "3:19",
     "artist": "Lorde",
-    "album": "Pure Heroine (Extended)",
+    "album": "Pure Heroine",
     "genre": "Pop",
     "count": "50",
     "year": "2013"
@@ -587,11 +587,20 @@
   {
     "name": "Slow Jamz",
     "time": "5:16",
-    "artist": "Twista, Kanye West & Jamie Foxx",
+    "artist": "Twista, Ye & Jamie Foxx",
     "album": "The College Dropout",
     "genre": "Hip-Hop/Rap",
     "count": "50",
     "year": "2003"
+  },
+  {
+    "name": "Necessary Evil",
+    "time": "5:18",
+    "artist": "Unknown Mortal Orchestra",
+    "album": "Multi-Love",
+    "genre": "Alternative",
+    "count": "50",
+    "year": "2015"
   },
   {
     "name": "borderline (feat. Missy Elliott)",
@@ -606,7 +615,7 @@
     "name": "After All",
     "time": "4:00",
     "artist": "David Bowie",
-    "album": "The Man Who Sold the World (2015 Remaster)",
+    "album": "The Man Who Sold the World",
     "genre": "Pop",
     "count": "49",
     "year": "1970"
@@ -630,13 +639,13 @@
     "year": "2013"
   },
   {
-    "name": "Necessary Evil",
-    "time": "5:18",
-    "artist": "Unknown Mortal Orchestra",
-    "album": "Multi-Love",
-    "genre": "Alternative",
+    "name": "Altar",
+    "time": "2:41",
+    "artist": "Poppy",
+    "album": "Bubblebath - EP",
+    "genre": "Pop",
     "count": "49",
-    "year": "2015"
+    "year": "2016"
   },
   {
     "name": "the light is coming (feat. Nicki Minaj)",
@@ -657,22 +666,22 @@
     "year": "2018"
   },
   {
+    "name": "NASA",
+    "time": "3:02",
+    "artist": "Ariana Grande",
+    "album": "thank u, next",
+    "genre": "Pop",
+    "count": "48",
+    "year": "2019"
+  },
+  {
     "name": "Drive Slow (feat. Paul Wall & GLC)",
     "time": "4:32",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "Late Registration",
     "genre": "Hip-Hop/Rap",
     "count": "48",
     "year": "2005"
-  },
-  {
-    "name": "Altar",
-    "time": "2:41",
-    "artist": "Poppy",
-    "album": "Bubblebath - EP",
-    "genre": "Pop",
-    "count": "48",
-    "year": "2016"
   },
   {
     "name": "everytime",
@@ -691,15 +700,6 @@
     "genre": "Pop",
     "count": "47",
     "year": "2018"
-  },
-  {
-    "name": "NASA",
-    "time": "3:02",
-    "artist": "Ariana Grande",
-    "album": "thank u, next",
-    "genre": "Pop",
-    "count": "47",
-    "year": "2019"
   },
   {
     "name": "Band of Gypsies",
@@ -732,7 +732,7 @@
     "name": "We Move Through the Plateau Phase",
     "time": "5:51",
     "artist": "Crispy Ambulance",
-    "album": "The Plateau Phase (Remastered)",
+    "album": "The Plateau Phase",
     "genre": "Alternative",
     "count": "46",
     "year": "1982"
@@ -786,7 +786,7 @@
     "name": "Ashes to Ashes",
     "time": "4:26",
     "artist": "David Bowie",
-    "album": "Scary Monsters (And Super Creeps) [2017 Remaster]",
+    "album": "Scary Monsters",
     "genre": "Pop",
     "count": "45",
     "year": "1980"
@@ -912,7 +912,7 @@
     "name": "Royals",
     "time": "3:10",
     "artist": "Lorde",
-    "album": "Pure Heroine (Extended)",
+    "album": "Pure Heroine",
     "genre": "Pop",
     "count": "41",
     "year": "2013"
@@ -925,6 +925,15 @@
     "genre": "Pop",
     "count": "40",
     "year": "2019"
+  },
+  {
+    "name": "Supercut",
+    "time": "4:38",
+    "artist": "Lorde",
+    "album": "Melodrama",
+    "genre": "Alternative",
+    "count": "40",
+    "year": "2017"
   },
   {
     "name": "Liability (Reprise)",
@@ -990,13 +999,13 @@
     "year": "2017"
   },
   {
-    "name": "Supercut",
-    "time": "4:38",
-    "artist": "Lorde",
-    "album": "Melodrama",
-    "genre": "Alternative",
+    "name": "American Kids",
+    "time": "3:31",
+    "artist": "Poppy",
+    "album": "Bubblebath - EP",
+    "genre": "Pop",
     "count": "39",
-    "year": "2017"
+    "year": "2016"
   },
   {
     "name": "Word for This",
@@ -1062,13 +1071,13 @@
     "year": "2018"
   },
   {
-    "name": "American Kids",
-    "time": "3:31",
+    "name": "X",
+    "time": "2:54",
     "artist": "Poppy",
-    "album": "Bubblebath - EP",
+    "album": "Am I a Girl?",
     "genre": "Pop",
     "count": "38",
-    "year": "2016"
+    "year": "2018"
   },
   {
     "name": "She",
@@ -1125,15 +1134,6 @@
     "year": "2013"
   },
   {
-    "name": "X",
-    "time": "2:54",
-    "artist": "Poppy",
-    "album": "Am I a Girl?",
-    "genre": "Pop",
-    "count": "37",
-    "year": "2018"
-  },
-  {
     "name": "Season’s Greetings",
     "time": "2:50",
     "artist": "Stella Donnelly",
@@ -1179,10 +1179,19 @@
     "year": "1993"
   },
   {
+    "name": "Moonage Daydream",
+    "time": "4:41",
+    "artist": "David Bowie",
+    "album": "Guardians of the Galaxy: Awesome Mix, Vol. 1",
+    "genre": "Soundtrack",
+    "count": "36",
+    "year": "2014"
+  },
+  {
     "name": "Life On Mars?",
     "time": "3:56",
     "artist": "David Bowie",
-    "album": "Hunky Dory (2015 Remaster)",
+    "album": "Hunky Dory",
     "genre": "Rock",
     "count": "36",
     "year": "1971"
@@ -1233,19 +1242,10 @@
     "year": "2018"
   },
   {
-    "name": "Moonage Daydream",
-    "time": "4:41",
-    "artist": "David Bowie",
-    "album": "Guardians of the Galaxy: Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)",
-    "genre": "Soundtrack",
-    "count": "35",
-    "year": "2014"
-  },
-  {
     "name": "Sound and Vision (2017 Remastered Version)",
     "time": "3:04",
     "artist": "David Bowie",
-    "album": "Low (2017 Remastered Version)",
+    "album": "Low",
     "genre": "Pop",
     "count": "35",
     "year": "1977"
@@ -1352,8 +1352,8 @@
   {
     "name": "Forever",
     "time": "5:57",
-    "artist": "Drake, Kanye West, Lil Wayne & Eminem",
-    "album": "More Than a Game (Music Inspired By the Film)",
+    "artist": "Drake, Ye, Lil Wayne & Eminem",
+    "album": "More Than a Game",
     "genre": "Soundtrack",
     "count": "34",
     "year": "2009"
@@ -1389,7 +1389,7 @@
     "name": "Delete Forever",
     "time": "3:57",
     "artist": "Grimes",
-    "album": "Miss Anthropocene (Deluxe Edition)",
+    "album": "Miss Anthropocene",
     "genre": "Electronic",
     "count": "34",
     "year": "2020"
@@ -1434,7 +1434,7 @@
     "name": "Sweet Thing",
     "time": "3:39",
     "artist": "David Bowie",
-    "album": "Diamond Dogs (2016 Remaster)",
+    "album": "Diamond Dogs",
     "genre": "Pop",
     "count": "33",
     "year": "1974"
@@ -1465,6 +1465,15 @@
     "genre": "Rock",
     "count": "33",
     "year": "1998"
+  },
+  {
+    "name": "Never Said",
+    "time": "3:16",
+    "artist": "Liz Phair",
+    "album": "Exile In Guyville",
+    "genre": "Rock",
+    "count": "33",
+    "year": "2008"
   },
   {
     "name": "Nothin' Like Tomorrow",
@@ -1510,15 +1519,6 @@
     "genre": "Pop",
     "count": "32",
     "year": "2014"
-  },
-  {
-    "name": "Never Said",
-    "time": "3:16",
-    "artist": "Liz Phair",
-    "album": "Exile In Guyville",
-    "genre": "Rock",
-    "count": "32",
-    "year": "2008"
   },
   {
     "name": "Buzzcut Season",
@@ -1623,7 +1623,7 @@
     "name": "We Appreciate Power (feat. HANA)",
     "time": "5:35",
     "artist": "Grimes",
-    "album": "Miss Anthropocene (Deluxe Edition)",
+    "album": "Miss Anthropocene",
     "genre": "Electronic",
     "count": "31",
     "year": "2018"
@@ -1636,6 +1636,15 @@
     "genre": "Alternative",
     "count": "31",
     "year": "1981"
+  },
+  {
+    "name": "Bluebird",
+    "time": "3:43",
+    "artist": "One Self",
+    "album": "Hôtel Costes 9",
+    "genre": "Electronic",
+    "count": "31",
+    "year": "1994"
   },
   {
     "name": "Little White Roses (with Todd Ivy)",
@@ -1701,6 +1710,15 @@
     "year": "2020"
   },
   {
+    "name": "Medicine Man",
+    "time": "4:33",
+    "artist": "Zero 7",
+    "album": "Yeah Ghost",
+    "genre": "Electronic",
+    "count": "31",
+    "year": "2009"
+  },
+  {
     "name": "Galaxies",
     "time": "5:09",
     "artist": "Alice Phoebe Lou",
@@ -1740,7 +1758,7 @@
     "name": "Kaya",
     "time": "3:16",
     "artist": "Bob Marley & The Wailers",
-    "album": "Kaya (Deluxe Edition)",
+    "album": "Kaya",
     "genre": "Reggae",
     "count": "30",
     "year": "2013"
@@ -1784,7 +1802,7 @@
   {
     "name": "God Is",
     "time": "3:23",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "JESUS IS KING",
     "genre": "Hip-Hop/Rap",
     "count": "30",
@@ -1827,15 +1845,6 @@
     "year": "2014"
   },
   {
-    "name": "Bluebird",
-    "time": "3:43",
-    "artist": "One Self",
-    "album": "Hôtel Costes 9",
-    "genre": "Electronic",
-    "count": "30",
-    "year": "1994"
-  },
-  {
     "name": "In a Minute",
     "time": "2:54",
     "artist": "Poppy",
@@ -1863,15 +1872,6 @@
     "year": "2020"
   },
   {
-    "name": "Medicine Man",
-    "time": "4:33",
-    "artist": "Zero 7",
-    "album": "Yeah Ghost",
-    "genre": "Electronic",
-    "count": "30",
-    "year": "2009"
-  },
-  {
     "name": "Gepetto",
     "time": "3:23",
     "artist": "Belly",
@@ -1884,7 +1884,7 @@
     "name": "Candidate",
     "time": "2:41",
     "artist": "David Bowie",
-    "album": "Diamond Dogs (2016 Remaster)",
+    "album": "Diamond Dogs",
     "genre": "Pop",
     "count": "29",
     "year": "1974"
@@ -1902,7 +1902,7 @@
     "name": "Before the Fever",
     "time": "3:37",
     "artist": "Grimes",
-    "album": "Miss Anthropocene (Deluxe Edition)",
+    "album": "Miss Anthropocene",
     "genre": "Electronic",
     "count": "29",
     "year": "2020"
@@ -1928,7 +1928,7 @@
   {
     "name": "Jesus Is Lord",
     "time": "0:49",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "JESUS IS KING",
     "genre": "Hip-Hop/Rap",
     "count": "29",
@@ -1989,6 +1989,15 @@
     "year": "2000"
   },
   {
+    "name": "Stay",
+    "time": "4:57",
+    "artist": "Belly",
+    "album": "Star",
+    "genre": "Pop",
+    "count": "28",
+    "year": "1993"
+  },
+  {
     "name": "Heaven",
     "time": "3:48",
     "artist": "Bitter:Sweet",
@@ -2028,7 +2037,7 @@
     "name": "Me, I Disconnect from You",
     "time": "3:23",
     "artist": "Gary Numan & Tubeway Army",
-    "album": "Replicas (Remastered)",
+    "album": "Replicas",
     "genre": "Alternative",
     "count": "28",
     "year": "1979"
@@ -2037,7 +2046,7 @@
     "name": "New Gods",
     "time": "3:16",
     "artist": "Grimes",
-    "album": "Miss Anthropocene (Deluxe Edition)",
+    "album": "Miss Anthropocene",
     "genre": "Electronic",
     "count": "28",
     "year": "2020"
@@ -2068,6 +2077,15 @@
     "genre": "Soundtrack",
     "count": "28",
     "year": "2007"
+  },
+  {
+    "name": "I Have a Crack",
+    "time": "4:22",
+    "artist": "Lebanon Hanover",
+    "album": "Babes of the 80'S - EP",
+    "genre": "Alternative",
+    "count": "28",
+    "year": "2016"
   },
   {
     "name": "Suburban Rhonda",
@@ -2160,19 +2178,10 @@
     "year": "1993"
   },
   {
-    "name": "Stay",
-    "time": "4:57",
-    "artist": "Belly",
-    "album": "Star",
-    "genre": "Pop",
-    "count": "27",
-    "year": "1993"
-  },
-  {
     "name": "Cum (feat. Iggy Azalea)",
     "time": "2:37",
     "artist": "Brooke Candy",
-    "album": "Cum (feat. Iggy Azalea) - Single",
+    "album": "Cum - Single",
     "genre": "Hip-Hop/Rap",
     "count": "27",
     "year": "2019"
@@ -2216,7 +2225,7 @@
   {
     "name": "Hands On (feat. Fred Hammond)",
     "time": "3:23",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "JESUS IS KING",
     "genre": "Hip-Hop/Rap",
     "count": "27",
@@ -2225,7 +2234,7 @@
   {
     "name": "Touch the Sky (feat. Lupe Fiasco)",
     "time": "3:57",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "Late Registration",
     "genre": "Hip-Hop/Rap",
     "count": "27",
@@ -2239,15 +2248,6 @@
     "genre": "Hip-Hop/Rap",
     "count": "27",
     "year": "2015"
-  },
-  {
-    "name": "I Have a Crack",
-    "time": "4:22",
-    "artist": "Lebanon Hanover",
-    "album": "Babes of the 80'S - EP",
-    "genre": "Alternative",
-    "count": "27",
-    "year": "2016"
   },
   {
     "name": "Fuck And Run",
@@ -2394,6 +2394,15 @@
     "year": "1975"
   },
   {
+    "name": "I Get No Joy",
+    "time": "2:42",
+    "artist": "Jade Bird",
+    "album": "Jade Bird",
+    "genre": "Alternative",
+    "count": "26",
+    "year": "2019"
+  },
+  {
     "name": "Its Time to Wake Up",
     "time": "6:23",
     "artist": "Jarrad Wright",
@@ -2405,8 +2414,8 @@
   {
     "name": "Praise God",
     "time": "3:47",
-    "artist": "Kanye West",
-    "album": "Donda (Deluxe)",
+    "artist": "Ye",
+    "album": "Donda",
     "genre": "Hip-Hop/Rap",
     "count": "26",
     "year": "2021"
@@ -2414,7 +2423,7 @@
   {
     "name": "Devil In a New Dress (feat. Rick Ross)",
     "time": "5:52",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "My Beautiful Dark Twisted Fantasy",
     "genre": "Hip-Hop/Rap",
     "count": "26",
@@ -2437,6 +2446,15 @@
     "genre": "Hip-Hop/Rap",
     "count": "26",
     "year": "2015"
+  },
+  {
+    "name": "Bad To the Bone (feat. Bibi Bourelly)",
+    "time": "3:16",
+    "artist": "Little Simz",
+    "album": "Stillness in Wonderland",
+    "genre": "Hip-Hop/Rap",
+    "count": "26",
+    "year": "2016"
   },
   {
     "name": "Angels With Dirty Faces",
@@ -2559,7 +2577,7 @@
     "name": "Diamond Dogs",
     "time": "6:04",
     "artist": "David Bowie",
-    "album": "Diamond Dogs (2016 Remaster)",
+    "album": "Diamond Dogs",
     "genre": "Pop",
     "count": "25",
     "year": "1974"
@@ -2577,7 +2595,7 @@
     "name": "Funky to the Bone (Single Version)",
     "time": "2:41",
     "artist": "Freddi Henchi & Soul Setters",
-    "album": "What It Is! Funky Soul and Rare Grooves (1967-1977)",
+    "album": "What It Is! Funky Soul and Rare Grooves",
     "genre": "R&B/Soul",
     "count": "25",
     "year": "2006"
@@ -2601,15 +2619,6 @@
     "year": "2000"
   },
   {
-    "name": "I Get No Joy",
-    "time": "2:42",
-    "artist": "Jade Bird",
-    "album": "Jade Bird",
-    "genre": "Alternative",
-    "count": "25",
-    "year": "2019"
-  },
-  {
     "name": "Rainy Day, Dream Away",
     "time": "3:42",
     "artist": "Jimi Hendrix",
@@ -2622,7 +2631,7 @@
     "name": "Hanging Out and Hung Up On the Line",
     "time": "4:43",
     "artist": "Julian Cope",
-    "album": "Peggy Suicide (Deluxe Edition)",
+    "album": "Peggy Suicide",
     "genre": "Rock",
     "count": "25",
     "year": "1991"
@@ -2630,15 +2639,6 @@
   {
     "name": "Picture Perfect",
     "time": "3:03",
-    "artist": "Little Simz",
-    "album": "Stillness in Wonderland",
-    "genre": "Hip-Hop/Rap",
-    "count": "25",
-    "year": "2016"
-  },
-  {
-    "name": "Bad To the Bone (feat. Bibi Bourelly)",
-    "time": "3:16",
     "artist": "Little Simz",
     "album": "Stillness in Wonderland",
     "genre": "Hip-Hop/Rap",
@@ -2763,10 +2763,19 @@
     "year": "1993"
   },
   {
+    "name": "Enjoy",
+    "time": "3:54",
+    "artist": "Björk",
+    "album": "Post",
+    "genre": "Pop",
+    "count": "24",
+    "year": "1995"
+  },
+  {
     "name": "Sweet Thing (Reprise)",
     "time": "2:33",
     "artist": "David Bowie",
-    "album": "Diamond Dogs (2016 Remaster)",
+    "album": "Diamond Dogs",
     "genre": "Pop",
     "count": "24",
     "year": "1974"
@@ -2784,7 +2793,16 @@
     "name": "You'll miss me when I'm not around",
     "time": "2:42",
     "artist": "Grimes",
-    "album": "Miss Anthropocene (Deluxe Edition)",
+    "album": "Miss Anthropocene",
+    "genre": "Electronic",
+    "count": "24",
+    "year": "2020"
+  },
+  {
+    "name": "Idoru",
+    "time": "7:13",
+    "artist": "Grimes",
+    "album": "Miss Anthropocene",
     "genre": "Electronic",
     "count": "24",
     "year": "2020"
@@ -2819,7 +2837,7 @@
   {
     "name": "Everything We Need (feat. Ty Dolla $ign & Ant Clemons)",
     "time": "1:57",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "JESUS IS KING",
     "genre": "Hip-Hop/Rap",
     "count": "24",
@@ -2828,7 +2846,7 @@
   {
     "name": "Use This Gospel (feat. Clipse & Kenny G)",
     "time": "3:34",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "JESUS IS KING",
     "genre": "Hip-Hop/Rap",
     "count": "24",
@@ -2837,7 +2855,7 @@
   {
     "name": "Dark Fantasy",
     "time": "4:41",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "My Beautiful Dark Twisted Fantasy",
     "genre": "Hip-Hop/Rap",
     "count": "24",
@@ -2916,15 +2934,6 @@
     "year": "2006"
   },
   {
-    "name": "Enjoy",
-    "time": "3:54",
-    "artist": "Björk",
-    "album": "Post",
-    "genre": "Pop",
-    "count": "23",
-    "year": "1995"
-  },
-  {
     "name": "Rip Her To Shreds",
     "time": "3:24",
     "artist": "Blondie",
@@ -2946,7 +2955,7 @@
     "name": "Drip (feat. Erika Jayne)",
     "time": "2:13",
     "artist": "Brooke Candy",
-    "album": "Drip (feat. Erika Jayne) - Single",
+    "album": "Drip - Single",
     "genre": "Hip-Hop/Rap",
     "count": "23",
     "year": "2019"
@@ -2973,7 +2982,7 @@
     "name": "Future Legend",
     "time": "1:00",
     "artist": "David Bowie",
-    "album": "Diamond Dogs (2016 Remaster)",
+    "album": "Diamond Dogs",
     "genre": "Pop",
     "count": "23",
     "year": "1974"
@@ -2982,7 +2991,7 @@
     "name": "Rock 'n' Roll with Me",
     "time": "4:03",
     "artist": "David Bowie",
-    "album": "Diamond Dogs (2016 Remaster)",
+    "album": "Diamond Dogs",
     "genre": "Pop",
     "count": "23",
     "year": "1974"
@@ -2991,7 +3000,7 @@
     "name": "All the Madmen",
     "time": "5:43",
     "artist": "David Bowie",
-    "album": "The Man Who Sold the World (2015 Remaster)",
+    "album": "The Man Who Sold the World",
     "genre": "Pop",
     "count": "23",
     "year": "1970"
@@ -3015,6 +3024,15 @@
     "year": "2005"
   },
   {
+    "name": "Little Yellow Spider",
+    "time": "3:40",
+    "artist": "Devendra Banhart",
+    "album": "Niño Rojo",
+    "genre": "Alternative & Punk",
+    "count": "23",
+    "year": "2004"
+  },
+  {
     "name": "After Party",
     "time": "2:48",
     "artist": "Don Toliver",
@@ -3031,15 +3049,6 @@
     "genre": "Alternative",
     "count": "23",
     "year": "2002"
-  },
-  {
-    "name": "Idoru",
-    "time": "7:13",
-    "artist": "Grimes",
-    "album": "Miss Anthropocene (Deluxe Edition)",
-    "genre": "Electronic",
-    "count": "23",
-    "year": "2020"
   },
   {
     "name": "Shinigami Eyes",
@@ -3098,7 +3107,7 @@
   {
     "name": "Water (feat. Ant Clemons)",
     "time": "2:48",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "JESUS IS KING",
     "genre": "Hip-Hop/Rap",
     "count": "23",
@@ -3231,6 +3240,15 @@
     "year": "2006"
   },
   {
+    "name": "Third Uncle",
+    "time": "4:50",
+    "artist": "Brian Eno",
+    "album": "Taking Tiger Mountain By Strategy",
+    "genre": "Electronica",
+    "count": "22",
+    "year": "1974"
+  },
+  {
     "name": "Nymph",
     "time": "2:00",
     "artist": "Brooke Candy",
@@ -3252,7 +3270,7 @@
     "name": "We Are the Dead",
     "time": "5:02",
     "artist": "David Bowie",
-    "album": "Diamond Dogs (2016 Remaster)",
+    "album": "Diamond Dogs",
     "genre": "Pop",
     "count": "22",
     "year": "1974"
@@ -3285,15 +3303,6 @@
     "year": "2005"
   },
   {
-    "name": "Little Yellow Spider",
-    "time": "3:40",
-    "artist": "Devendra Banhart",
-    "album": "Niño Rojo",
-    "genre": "Alternative & Punk",
-    "count": "22",
-    "year": "2004"
-  },
-  {
     "name": "Cathedral",
     "time": "2:50",
     "artist": "Jade Bird",
@@ -3324,7 +3333,7 @@
     "name": "The American Lite",
     "time": "4:03",
     "artist": "Julian Cope",
-    "album": "Peggy Suicide (Deluxe Edition)",
+    "album": "Peggy Suicide",
     "genre": "Rock",
     "count": "22",
     "year": "1991"
@@ -3332,7 +3341,7 @@
   {
     "name": "Follow God",
     "time": "1:45",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "JESUS IS KING",
     "genre": "Hip-Hop/Rap",
     "count": "22",
@@ -3341,7 +3350,7 @@
   {
     "name": "On God",
     "time": "2:16",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "JESUS IS KING",
     "genre": "Hip-Hop/Rap",
     "count": "22",
@@ -3465,6 +3474,15 @@
     "year": "2015"
   },
   {
+    "name": "The World Is Crowded",
+    "time": "4:20",
+    "artist": "Unknown Mortal Orchestra",
+    "album": "Multi-Love",
+    "genre": "Alternative",
+    "count": "22",
+    "year": "2015"
+  },
+  {
     "name": "Piazza, New York Catcher",
     "time": "3:03",
     "artist": "Belle & Sebastian",
@@ -3483,15 +3501,6 @@
     "year": "2006"
   },
   {
-    "name": "Third Uncle",
-    "time": "4:50",
-    "artist": "Brian Eno",
-    "album": "Taking Tiger Mountain By Strategy",
-    "genre": "Electronica",
-    "count": "21",
-    "year": "1974"
-  },
-  {
     "name": "Encore (feat. La Goony Chonga)",
     "time": "1:53",
     "artist": "Brooke Candy",
@@ -3508,6 +3517,24 @@
     "genre": "Hip-Hop/Rap",
     "count": "21",
     "year": "2018"
+  },
+  {
+    "name": "Let's Make A Better World",
+    "time": "2:53",
+    "artist": "Dr. John",
+    "album": "The Ultimate Dr. John",
+    "genre": "R&B",
+    "count": "21",
+    "year": "1987"
+  },
+  {
+    "name": "Truckin'",
+    "time": "5:09",
+    "artist": "Grateful Dead",
+    "album": "The Very Best Of Grateful Dead",
+    "genre": "Rock",
+    "count": "21",
+    "year": "2003"
   },
   {
     "name": "Visiting Statue",
@@ -3558,7 +3585,7 @@
     "name": "Pristeen",
     "time": "4:41",
     "artist": "Julian Cope",
-    "album": "Peggy Suicide (Deluxe Edition)",
+    "album": "Peggy Suicide",
     "genre": "Rock",
     "count": "21",
     "year": "1991"
@@ -3663,10 +3690,19 @@
     "year": ""
   },
   {
+    "name": "D's Car Jam / Anxious Mo-Fo",
+    "time": "1:20",
+    "artist": "Minutemen",
+    "album": "Double Nickels On The Dime",
+    "genre": "Punk",
+    "count": "21",
+    "year": "1984"
+  },
+  {
     "name": "Momma's Little Jewel",
     "time": "4:27",
     "artist": "Mott the Hoople",
-    "album": "All the Young Dudes (Legacy Edition)",
+    "album": "All the Young Dudes",
     "genre": "Rock",
     "count": "21",
     "year": "1972"
@@ -3697,15 +3733,6 @@
     "genre": "Alternative",
     "count": "21",
     "year": "1992"
-  },
-  {
-    "name": "The World Is Crowded",
-    "time": "4:20",
-    "artist": "Unknown Mortal Orchestra",
-    "album": "Multi-Love",
-    "genre": "Alternative",
-    "count": "21",
-    "year": "2015"
   },
   {
     "name": "Petals",
@@ -3783,7 +3810,7 @@
     "name": "Sun Is Shining",
     "time": "4:58",
     "artist": "Bob Marley & The Wailers",
-    "album": "Kaya (Deluxe Edition)",
+    "album": "Kaya",
     "genre": "Reggae",
     "count": "20",
     "year": "2013"
@@ -3828,7 +3855,7 @@
     "name": "Rebel Rebel",
     "time": "4:35",
     "artist": "David Bowie",
-    "album": "Diamond Dogs (2016 Remaster)",
+    "album": "Diamond Dogs",
     "genre": "Pop",
     "count": "20",
     "year": "1974"
@@ -3837,7 +3864,7 @@
     "name": "Queen Bitch",
     "time": "3:21",
     "artist": "David Bowie",
-    "album": "Hunky Dory (2015 Remaster)",
+    "album": "Hunky Dory",
     "genre": "Rock",
     "count": "20",
     "year": "1971"
@@ -3846,7 +3873,7 @@
     "name": "The Man Who Sold the World",
     "time": "4:01",
     "artist": "David Bowie",
-    "album": "The Man Who Sold the World (2015 Remaster)",
+    "album": "The Man Who Sold the World",
     "genre": "Pop",
     "count": "20",
     "year": "1970"
@@ -3861,15 +3888,6 @@
     "year": "2016"
   },
   {
-    "name": "Let's Make A Better World",
-    "time": "2:53",
-    "artist": "Dr. John",
-    "album": "The Ultimate Dr. John",
-    "genre": "R&B",
-    "count": "20",
-    "year": "1987"
-  },
-  {
     "name": "Senior Service",
     "time": "2:19",
     "artist": "Elvis Costello",
@@ -3879,19 +3897,10 @@
     "year": "1979"
   },
   {
-    "name": "Truckin'",
-    "time": "5:09",
-    "artist": "Grateful Dead",
-    "album": "The Very Best Of Grateful Dead",
-    "genre": "Rock",
-    "count": "20",
-    "year": "2003"
-  },
-  {
     "name": "So Heavy I Fell Through the Earth (Art Mix)",
     "time": "6:08",
     "artist": "Grimes",
-    "album": "Miss Anthropocene (Deluxe Edition)",
+    "album": "Miss Anthropocene",
     "genre": "Electronic",
     "count": "20",
     "year": "2019"
@@ -3936,7 +3945,7 @@
     "name": "Double Vegetation",
     "time": "3:52",
     "artist": "Julian Cope",
-    "album": "Peggy Suicide (Deluxe Edition)",
+    "album": "Peggy Suicide",
     "genre": "Rock",
     "count": "20",
     "year": "1991"
@@ -3944,7 +3953,7 @@
   {
     "name": "Closed on Sunday",
     "time": "2:32",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "JESUS IS KING",
     "genre": "Hip-Hop/Rap",
     "count": "20",
@@ -3985,6 +3994,15 @@
     "genre": "Alternative & Punk",
     "count": "20",
     "year": "1994"
+  },
+  {
+    "name": "Whitechocolatespaceegg",
+    "time": "4:36",
+    "artist": "Liz Phair",
+    "album": "Whitechocolatespaceegg",
+    "genre": "Alternative",
+    "count": "20",
+    "year": "1998"
   },
   {
     "name": "Dream In Blue",
@@ -4032,15 +4050,6 @@
     "year": "1994"
   },
   {
-    "name": "D's Car Jam / Anxious Mo-Fo",
-    "time": "1:20",
-    "artist": "Minutemen",
-    "album": "Double Nickels On The Dime",
-    "genre": "Punk",
-    "count": "20",
-    "year": "1984"
-  },
-  {
     "name": "It's Expected I'm Gone",
     "time": "2:05",
     "artist": "Minutemen",
@@ -4080,7 +4089,7 @@
     "name": "Ibtihaj (feat. D'Angelo & GZA)",
     "time": "4:47",
     "artist": "Rapsody",
-    "album": "Ibtihaj (feat. D'Angelo & GZA) - Single",
+    "album": "Ibtihaj - Single",
     "genre": "Hip-Hop/Rap",
     "count": "20",
     "year": "2019"
@@ -4111,6 +4120,24 @@
     "genre": "Electronic",
     "count": "20",
     "year": "2000"
+  },
+  {
+    "name": "The Closer You Get",
+    "time": "4:34",
+    "artist": "Alabama",
+    "album": "Closer You Get",
+    "genre": "Country",
+    "count": "19",
+    "year": "1983"
+  },
+  {
+    "name": "She Put the Sad In All His Songs",
+    "time": "4:03",
+    "artist": "Alabama",
+    "album": "Closer You Get",
+    "genre": "Country",
+    "count": "19",
+    "year": "1983"
   },
   {
     "name": "Tree Hugger",
@@ -4224,7 +4251,7 @@
     "name": "1984",
     "time": "3:27",
     "artist": "David Bowie",
-    "album": "Diamond Dogs (2016 Remaster)",
+    "album": "Diamond Dogs",
     "genre": "Pop",
     "count": "19",
     "year": "1974"
@@ -4233,7 +4260,7 @@
     "name": "Big Brother",
     "time": "3:23",
     "artist": "David Bowie",
-    "album": "Diamond Dogs (2016 Remaster)",
+    "album": "Diamond Dogs",
     "genre": "Pop",
     "count": "19",
     "year": "1974"
@@ -4242,7 +4269,7 @@
     "name": "Chant of the Ever Circling Skeletal Family",
     "time": "2:06",
     "artist": "David Bowie",
-    "album": "Diamond Dogs (2016 Remaster)",
+    "album": "Diamond Dogs",
     "genre": "Pop",
     "count": "19",
     "year": "1974"
@@ -4323,7 +4350,7 @@
     "name": "Cosmik Debris",
     "time": "4:17",
     "artist": "Frank Zappa",
-    "album": "Apostrophe (')",
+    "album": "Apostrophe",
     "genre": "Rock",
     "count": "19",
     "year": "1974"
@@ -4332,7 +4359,7 @@
     "name": "Violence",
     "time": "3:41",
     "artist": "Grimes & i_o",
-    "album": "Miss Anthropocene (Deluxe Edition)",
+    "album": "Miss Anthropocene",
     "genre": "Electronic",
     "count": "19",
     "year": "2019"
@@ -4341,7 +4368,7 @@
     "name": "Darkseid",
     "time": "3:44",
     "artist": "Grimes & 潘PAN",
-    "album": "Miss Anthropocene (Deluxe Edition)",
+    "album": "Miss Anthropocene",
     "genre": "Electronic",
     "count": "19",
     "year": "2020"
@@ -4367,7 +4394,7 @@
   {
     "name": "Selah",
     "time": "2:45",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "JESUS IS KING",
     "genre": "Hip-Hop/Rap",
     "count": "19",
@@ -4401,13 +4428,13 @@
     "year": "1994"
   },
   {
-    "name": "Whitechocolatespaceegg",
-    "time": "4:36",
+    "name": "Whip-Smart",
+    "time": "4:19",
     "artist": "Liz Phair",
-    "album": "Whitechocolatespaceegg",
-    "genre": "Alternative",
+    "album": "Whip-Smart",
+    "genre": "Alternative & Punk",
     "count": "19",
-    "year": "1998"
+    "year": "1994"
   },
   {
     "name": "Shitloads Of Money",
@@ -4437,6 +4464,15 @@
     "year": "1981"
   },
   {
+    "name": "Love Food",
+    "time": "4:32",
+    "artist": "Michael Mayer",
+    "album": "Hôtel Costes 8",
+    "genre": "Electronic",
+    "count": "19",
+    "year": "2000"
+  },
+  {
     "name": "Maybe Partying Will Help",
     "time": "1:56",
     "artist": "Minutemen",
@@ -4444,6 +4480,33 @@
     "genre": "Punk",
     "count": "19",
     "year": "1984"
+  },
+  {
+    "name": "Jesus And Tequila",
+    "time": "2:53",
+    "artist": "Minutemen",
+    "album": "Double Nickels On The Dime",
+    "genre": "Punk",
+    "count": "19",
+    "year": "1984"
+  },
+  {
+    "name": "Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+    "time": "5:35",
+    "artist": "Rapsody",
+    "album": "Laila’s Wisdom",
+    "genre": "Hip-Hop/Rap",
+    "count": "19",
+    "year": "2017"
+  },
+  {
+    "name": "Lentil",
+    "time": "4:27",
+    "artist": "Sia",
+    "album": "Some People Have Real Problems",
+    "genre": "Pop",
+    "count": "19",
+    "year": "2008"
   },
   {
     "name": "Cecilia",
@@ -4491,6 +4554,24 @@
     "year": "2000"
   },
   {
+    "name": "Puzzles",
+    "time": "7:03",
+    "artist": "Unknown Mortal Orchestra",
+    "album": "Multi-Love",
+    "genre": "Alternative",
+    "count": "19",
+    "year": "2015"
+  },
+  {
+    "name": "Being in Love",
+    "time": "2:02",
+    "artist": "Wet Leg",
+    "album": "Wet Leg",
+    "genre": "Alternative",
+    "count": "19",
+    "year": "2022"
+  },
+  {
     "name": "I Don't Wanna Go Out",
     "time": "3:42",
     "artist": "Wet Leg",
@@ -4503,7 +4584,7 @@
     "name": "Simple Things",
     "time": "4:24",
     "artist": "Zero 7",
-    "album": "Simple Things (Bonus)",
+    "album": "Simple Things",
     "genre": "Trip Hop",
     "count": "19",
     "year": "2001"
@@ -4512,7 +4593,7 @@
     "name": "Red Dust",
     "time": "5:41",
     "artist": "Zero 7",
-    "album": "Simple Things (Bonus)",
+    "album": "Simple Things",
     "genre": "Trip Hop",
     "count": "19",
     "year": "2001"
@@ -4521,7 +4602,7 @@
     "name": "Likufanele",
     "time": "6:12",
     "artist": "Zero 7",
-    "album": "Simple Things (Bonus)",
+    "album": "Simple Things",
     "genre": "Trip Hop",
     "count": "19",
     "year": "2001"
@@ -4545,22 +4626,13 @@
     "year": "1998"
   },
   {
-    "name": "The Closer You Get",
-    "time": "4:34",
-    "artist": "Alabama",
-    "album": "Closer You Get",
-    "genre": "Country",
+    "name": "Blackbird Chain",
+    "time": "4:27",
+    "artist": "Beck",
+    "album": "Morning Phase",
+    "genre": "Alternative",
     "count": "18",
-    "year": "1983"
-  },
-  {
-    "name": "She Put the Sad In All His Songs",
-    "time": "4:03",
-    "artist": "Alabama",
-    "album": "Closer You Get",
-    "genre": "Country",
-    "count": "18",
-    "year": "1983"
+    "year": "2014"
   },
   {
     "name": "Piazza, New York Catcher",
@@ -4620,7 +4692,7 @@
     "name": "XXXTC (feat. Charli XCX & Maliibu Miitch)",
     "time": "3:19",
     "artist": "Brooke Candy",
-    "album": "XXXTC (feat. Charli XCX & Maliibu Miitch) - Single",
+    "album": "XXXTC - Single",
     "genre": "Hip-Hop/Rap",
     "count": "18",
     "year": "2019"
@@ -4629,10 +4701,19 @@
     "name": "Lady Marmalade",
     "time": "4:25",
     "artist": "Christina Aguilera, Lil' Kim, Mýa & P!nk",
-    "album": "Music From Baz Luhrmann's Film Moulin Rouge (Original Motion Picture Soundtrack)",
+    "album": "Music From Baz Luhrmann's Film Moulin Rouge",
     "genre": "Soundtrack",
     "count": "18",
     "year": "2001"
+  },
+  {
+    "name": "Young Americans",
+    "time": "5:16",
+    "artist": "David Bowie",
+    "album": "Young Americans",
+    "genre": "Soul",
+    "count": "18",
+    "year": "1975"
   },
   {
     "name": "Only In New York",
@@ -4692,8 +4773,17 @@
     "name": "My Name is Dark (Art Mix)",
     "time": "5:56",
     "artist": "Grimes",
-    "album": "Miss Anthropocene (Deluxe Edition)",
+    "album": "Miss Anthropocene",
     "genre": "Electronic",
+    "count": "18",
+    "year": "2019"
+  },
+  {
+    "name": "Ruins",
+    "time": "2:45",
+    "artist": "Jade Bird",
+    "album": "Jade Bird",
+    "genre": "Alternative",
     "count": "18",
     "year": "2019"
   },
@@ -4725,15 +4815,6 @@
     "year": "2018"
   },
   {
-    "name": "Whip-Smart",
-    "time": "4:19",
-    "artist": "Liz Phair",
-    "album": "Whip-Smart",
-    "genre": "Alternative & Punk",
-    "count": "18",
-    "year": "1994"
-  },
-  {
     "name": "Johnny Feelgood",
     "time": "3:22",
     "artist": "Liz Phair",
@@ -4761,15 +4842,6 @@
     "year": "2007"
   },
   {
-    "name": "Love Food",
-    "time": "4:32",
-    "artist": "Michael Mayer",
-    "album": "Hôtel Costes 8",
-    "genre": "Electronic",
-    "count": "18",
-    "year": "2000"
-  },
-  {
     "name": "Do You Want New Wave Or Do You Want The Truth?",
     "time": "1:51",
     "artist": "Minutemen",
@@ -4790,15 +4862,6 @@
   {
     "name": "History Lesson - Part II",
     "time": "2:12",
-    "artist": "Minutemen",
-    "album": "Double Nickels On The Dime",
-    "genre": "Punk",
-    "count": "18",
-    "year": "1984"
-  },
-  {
-    "name": "Jesus And Tequila",
-    "time": "2:53",
     "artist": "Minutemen",
     "album": "Double Nickels On The Dime",
     "genre": "Punk",
@@ -4851,15 +4914,6 @@
     "year": "1995"
   },
   {
-    "name": "Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
-    "time": "5:35",
-    "artist": "Rapsody",
-    "album": "Laila’s Wisdom",
-    "genre": "Hip-Hop/Rap",
-    "count": "18",
-    "year": "2017"
-  },
-  {
     "name": "Photo ID",
     "time": "4:25",
     "artist": "Remi Wolf",
@@ -4867,15 +4921,6 @@
     "genre": "Pop",
     "count": "18",
     "year": "2020"
-  },
-  {
-    "name": "Lentil",
-    "time": "4:27",
-    "artist": "Sia",
-    "album": "Some People Have Real Problems",
-    "genre": "Pop",
-    "count": "18",
-    "year": "2008"
   },
   {
     "name": "New Song",
@@ -4896,31 +4941,13 @@
     "year": "2017"
   },
   {
-    "name": "Puzzles",
-    "time": "7:03",
-    "artist": "Unknown Mortal Orchestra",
-    "album": "Multi-Love",
-    "genre": "Alternative",
-    "count": "18",
-    "year": "2015"
-  },
-  {
     "name": "Venus In Furs",
     "time": "5:13",
     "artist": "The Velvet Underground",
-    "album": "The Velvet Underground & Nico [Disc 1] [Stereo]",
+    "album": "The Velvet Underground & Nico",
     "genre": "Rock",
     "count": "18",
     "year": "1967"
-  },
-  {
-    "name": "Being in Love",
-    "time": "2:02",
-    "artist": "Wet Leg",
-    "album": "Wet Leg",
-    "genre": "Alternative",
-    "count": "18",
-    "year": "2022"
   },
   {
     "name": "Chaise Longue",
@@ -4953,7 +4980,7 @@
     "name": "I Have Seen",
     "time": "5:07",
     "artist": "Zero 7",
-    "album": "Simple Things (Bonus)",
+    "album": "Simple Things",
     "genre": "Trip Hop",
     "count": "18",
     "year": "2001"
@@ -4986,15 +5013,6 @@
     "year": ""
   },
   {
-    "name": "Blackbird Chain",
-    "time": "4:27",
-    "artist": "Beck",
-    "album": "Morning Phase",
-    "genre": "Alternative",
-    "count": "17",
-    "year": "2014"
-  },
-  {
     "name": "Roy Walker",
     "time": "2:57",
     "artist": "Belle & Sebastian",
@@ -5011,6 +5029,15 @@
     "genre": "Indie Rock",
     "count": "17",
     "year": "1996"
+  },
+  {
+    "name": "Expectations",
+    "time": "3:35",
+    "artist": "Belle & Sebastian",
+    "album": "Juno",
+    "genre": "Soundtrack",
+    "count": "17",
+    "year": "2007"
   },
   {
     "name": "Army of Me",
@@ -5043,7 +5070,7 @@
     "name": "Is This Love",
     "time": "3:52",
     "artist": "Bob Marley & The Wailers",
-    "album": "Kaya (Deluxe Edition)",
+    "album": "Kaya",
     "genre": "Reggae",
     "count": "17",
     "year": "2013"
@@ -5052,7 +5079,7 @@
     "name": "Misty Morning",
     "time": "3:34",
     "artist": "Bob Marley & The Wailers",
-    "album": "Kaya (Deluxe Edition)",
+    "album": "Kaya",
     "genre": "Reggae",
     "count": "17",
     "year": "2013"
@@ -5061,7 +5088,7 @@
     "name": "Nature Boy",
     "time": "3:26",
     "artist": "David Bowie",
-    "album": "Music From Baz Luhrmann's Film Moulin Rouge (Original Motion Picture Soundtrack)",
+    "album": "Music From Baz Luhrmann's Film Moulin Rouge",
     "genre": "Soundtrack",
     "count": "17",
     "year": "2001"
@@ -5103,6 +5130,15 @@
     "year": "2004"
   },
   {
+    "name": "Tear Off Your Own Head (It's a Doll Revolution)",
+    "time": "3:32",
+    "artist": "Elvis Costello",
+    "album": "When I Was Cruel",
+    "genre": "Alternative",
+    "count": "17",
+    "year": "2002"
+  },
+  {
     "name": "Fanfare",
     "time": "2:56",
     "artist": "Eric Matthews",
@@ -5133,7 +5169,7 @@
     "name": "Are 'Friends' Electric?",
     "time": "5:23",
     "artist": "Gary Numan & Tubeway Army",
-    "album": "Replicas (Remastered)",
+    "album": "Replicas",
     "genre": "Alternative",
     "count": "17",
     "year": "1979"
@@ -5142,7 +5178,7 @@
     "name": "Oh Well (feat. Malik)",
     "time": "3:00",
     "artist": "Hailey Orion",
-    "album": "Oh Well (feat. Malik) - Single",
+    "album": "Oh Well - Single",
     "genre": "R&B/Soul",
     "count": "17",
     "year": "2019"
@@ -5175,15 +5211,6 @@
     "year": "2021"
   },
   {
-    "name": "Ruins",
-    "time": "2:45",
-    "artist": "Jade Bird",
-    "album": "Jade Bird",
-    "genre": "Alternative",
-    "count": "17",
-    "year": "2019"
-  },
-  {
     "name": "My Motto",
     "time": "2:58",
     "artist": "Jade Bird",
@@ -5191,6 +5218,15 @@
     "genre": "Alternative",
     "count": "17",
     "year": "2019"
+  },
+  {
+    "name": "...And the Gods Made Love",
+    "time": "1:23",
+    "artist": "Jimi Hendrix",
+    "album": "Electric Ladyland",
+    "genre": "Rock",
+    "count": "17",
+    "year": "1998"
   },
   {
     "name": "Selfish (feat. Cleo Sol)",
@@ -5328,6 +5364,24 @@
     "year": "1995"
   },
   {
+    "name": "Laila’s Wisdom",
+    "time": "3:15",
+    "artist": "Rapsody",
+    "album": "Laila’s Wisdom",
+    "genre": "Hip-Hop/Rap",
+    "count": "17",
+    "year": "2017"
+  },
+  {
+    "name": "Wind (Fila Brazila Mix)",
+    "time": "5:13",
+    "artist": "Soulstice",
+    "album": "Hôtel Costes 8",
+    "genre": "Electronic",
+    "count": "17",
+    "year": "2000"
+  },
+  {
     "name": "Wet Dream",
     "time": "2:20",
     "artist": "Wet Leg",
@@ -5382,6 +5436,15 @@
     "year": "2001"
   },
   {
+    "name": "Passing By (feat. Sophie Barker)",
+    "time": "4:51",
+    "artist": "Zero 7",
+    "album": "When It Falls",
+    "genre": "Electronic",
+    "count": "17",
+    "year": "2004"
+  },
+  {
     "name": "Love",
     "time": "2:43",
     "artist": "Air",
@@ -5409,6 +5472,15 @@
     "year": "2001"
   },
   {
+    "name": "Jimmy James",
+    "time": "3:17",
+    "artist": "Beastie Boys",
+    "album": "Check Your Head",
+    "genre": "Rap & Hip-Hop",
+    "count": "16",
+    "year": "1992"
+  },
+  {
     "name": "Pass the Mic",
     "time": "4:19",
     "artist": "Beastie Boys",
@@ -5434,15 +5506,6 @@
     "genre": "Indie Rock",
     "count": "16",
     "year": "1996"
-  },
-  {
-    "name": "Expectations",
-    "time": "3:35",
-    "artist": "Belle & Sebastian",
-    "album": "Juno",
-    "genre": "Soundtrack",
-    "count": "16",
-    "year": "2007"
   },
   {
     "name": "Happiness Is a Warm Gun",
@@ -5475,7 +5538,7 @@
     "name": "FMU (feat. Boys Noize & Rico Nasty)",
     "time": "2:58",
     "artist": "Brooke Candy",
-    "album": "FMU (feat. Boys Noize & Rico Nasty) - Single",
+    "album": "FMU - Single",
     "genre": "Hip-Hop/Rap",
     "count": "16",
     "year": "2019"
@@ -5484,7 +5547,7 @@
     "name": "Cheesin' (feat. Still Woozy, Claud, Melanie Faye & HXNS)",
     "time": "2:18",
     "artist": "Cautious Clay, Remi Wolf & sophie meiers",
-    "album": "Cheesin' (feat. Still Woozy, Claud, Melanie Faye & HXNS) - Single",
+    "album": "Cheesin' - Single",
     "genre": "Pop",
     "count": "16",
     "year": "2020"
@@ -5493,19 +5556,10 @@
     "name": "The Width of a Circle",
     "time": "8:11",
     "artist": "David Bowie",
-    "album": "The Man Who Sold the World (2015 Remaster)",
+    "album": "The Man Who Sold the World",
     "genre": "Pop",
     "count": "16",
     "year": "1970"
-  },
-  {
-    "name": "Young Americans",
-    "time": "5:16",
-    "artist": "David Bowie",
-    "album": "Young Americans",
-    "genre": "Soul",
-    "count": "16",
-    "year": "1975"
   },
   {
     "name": "Lucky",
@@ -5544,6 +5598,15 @@
     "year": "2004"
   },
   {
+    "name": "Seahorse",
+    "time": "8:02",
+    "artist": "Devendra Banhart",
+    "album": "Smokey Rolls Down Thunder Canyon",
+    "genre": "Folk",
+    "count": "16",
+    "year": "2007"
+  },
+  {
     "name": "Me - You = Loneliness",
     "time": "3:05",
     "artist": "Dr. John",
@@ -5553,15 +5616,6 @@
     "year": "1987"
   },
   {
-    "name": "Tear Off Your Own Head (It's a Doll Revolution)",
-    "time": "3:32",
-    "artist": "Elvis Costello",
-    "album": "When I Was Cruel",
-    "genre": "Alternative",
-    "count": "16",
-    "year": "2002"
-  },
-  {
     "name": "Fall",
     "time": "4:22",
     "artist": "Eminem",
@@ -5569,6 +5623,15 @@
     "genre": "Hip-Hop/Rap",
     "count": "16",
     "year": "2018"
+  },
+  {
+    "name": "Fried Out Broken Girl",
+    "time": "3:29",
+    "artist": "Eric Matthews",
+    "album": "It's Heavy In Here",
+    "genre": "Indie Rock",
+    "count": "16",
+    "year": "1995"
   },
   {
     "name": "Nightmusic (feat. Majical Clouds)",
@@ -5587,15 +5650,6 @@
     "genre": "Alternative",
     "count": "16",
     "year": "2017"
-  },
-  {
-    "name": "...And the Gods Made Love",
-    "time": "1:23",
-    "artist": "Jimi Hendrix",
-    "album": "Electric Ladyland",
-    "genre": "Rock",
-    "count": "16",
-    "year": "1998"
   },
   {
     "name": "For Sale? (Interlude)",
@@ -5679,6 +5733,15 @@
     "year": "1994"
   },
   {
+    "name": "So Lucky",
+    "time": "4:12",
+    "artist": "Magazine",
+    "album": "Magic, Murder and the Weather",
+    "genre": "Alternative",
+    "count": "16",
+    "year": "1981"
+  },
+  {
     "name": "One Reporter's Opinion",
     "time": "1:51",
     "artist": "Minutemen",
@@ -5691,7 +5754,7 @@
     "name": "It's Summertime",
     "time": "3:39",
     "artist": "Morcheeba",
-    "album": "Blaze Away (Deluxe Version)",
+    "album": "Blaze Away",
     "genre": "Pop",
     "count": "16",
     "year": "2018"
@@ -5700,7 +5763,7 @@
     "name": "Sweet L.A.",
     "time": "2:42",
     "artist": "Morcheeba",
-    "album": "Blaze Away (Deluxe Version)",
+    "album": "Blaze Away",
     "genre": "Pop",
     "count": "16",
     "year": "2018"
@@ -5722,15 +5785,6 @@
     "genre": "Alternative",
     "count": "16",
     "year": "2013"
-  },
-  {
-    "name": "Laila’s Wisdom",
-    "time": "3:15",
-    "artist": "Rapsody",
-    "album": "Laila’s Wisdom",
-    "genre": "Hip-Hop/Rap",
-    "count": "16",
-    "year": "2017"
   },
   {
     "name": "Black & Ugly (feat. BJ the Chicago Kid)",
@@ -5785,15 +5839,6 @@
     "genre": "Hip-Hop/Rap",
     "count": "16",
     "year": "2008"
-  },
-  {
-    "name": "Wind (Fila Brazila Mix)",
-    "time": "5:13",
-    "artist": "Soulstice",
-    "album": "Hôtel Costes 8",
-    "genre": "Electronic",
-    "count": "16",
-    "year": "2000"
   },
   {
     "name": "willow",
@@ -5853,7 +5898,7 @@
     "name": "Give It Away",
     "time": "5:17",
     "artist": "Zero 7",
-    "album": "Simple Things (Bonus)",
+    "album": "Simple Things",
     "genre": "Trip Hop",
     "count": "16",
     "year": "2001"
@@ -5862,7 +5907,7 @@
     "name": "Out Of Town",
     "time": "4:48",
     "artist": "Zero 7",
-    "album": "Simple Things (Bonus)",
+    "album": "Simple Things",
     "genre": "Trip Hop",
     "count": "16",
     "year": "2001"
@@ -5871,19 +5916,10 @@
     "name": "Destiny (feat. Sia & Sophie Barker)",
     "time": "5:38",
     "artist": "Zero 7",
-    "album": "Simple Things (Special Edition)",
+    "album": "Simple Things",
     "genre": "Electronic",
     "count": "16",
     "year": "2001"
-  },
-  {
-    "name": "Passing By (feat. Sophie Barker)",
-    "time": "4:51",
-    "artist": "Zero 7",
-    "album": "When It Falls",
-    "genre": "Electronic",
-    "count": "16",
-    "year": "2004"
   },
   {
     "name": "Sleeper (feat. Eska)",
@@ -5904,6 +5940,24 @@
     "year": "2001"
   },
   {
+    "name": "Radian",
+    "time": "7:38",
+    "artist": "Air",
+    "album": "10,000 Hz Legend",
+    "genre": "Electronica",
+    "count": "15",
+    "year": "2001"
+  },
+  {
+    "name": "Dixieland Delight",
+    "time": "5:26",
+    "artist": "Alabama",
+    "album": "Closer You Get",
+    "genre": "Country",
+    "count": "15",
+    "year": "1983"
+  },
+  {
     "name": "Dixieland Delight",
     "time": "5:22",
     "artist": "Alabama",
@@ -5911,15 +5965,6 @@
     "genre": "Country",
     "count": "15",
     "year": "1983"
-  },
-  {
-    "name": "Jimmy James",
-    "time": "3:17",
-    "artist": "Beastie Boys",
-    "album": "Check Your Head",
-    "genre": "Rap & Hip-Hop",
-    "count": "15",
-    "year": "1992"
   },
   {
     "name": "Funky Boss",
@@ -5994,6 +6039,15 @@
     "year": "2003"
   },
   {
+    "name": "Act Of The Apostle",
+    "time": "2:56",
+    "artist": "Belle & Sebastian",
+    "album": "The Life Pursuit",
+    "genre": "Indie Rock",
+    "count": "15",
+    "year": "2006"
+  },
+  {
     "name": "Saints",
     "time": "2:32",
     "artist": "The Breeders",
@@ -6024,10 +6078,19 @@
     "name": "Black Country Rock",
     "time": "3:37",
     "artist": "David Bowie",
-    "album": "The Man Who Sold the World (2015 Remaster)",
+    "album": "The Man Who Sold the World",
     "genre": "Pop",
     "count": "15",
     "year": "1970"
+  },
+  {
+    "name": "Lady Stardust",
+    "time": "3:21",
+    "artist": "David Bowie",
+    "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+    "genre": "Rock",
+    "count": "15",
+    "year": "1972"
   },
   {
     "name": "Ziggy Stardust",
@@ -6046,15 +6109,6 @@
     "genre": "Soul",
     "count": "15",
     "year": "1975"
-  },
-  {
-    "name": "Seahorse",
-    "time": "8:02",
-    "artist": "Devendra Banhart",
-    "album": "Smokey Rolls Down Thunder Canyon",
-    "genre": "Folk",
-    "count": "15",
-    "year": "2007"
   },
   {
     "name": "Tart",
@@ -6077,15 +6131,6 @@
   {
     "name": "Faith To Clay",
     "time": "2:22",
-    "artist": "Eric Matthews",
-    "album": "It's Heavy In Here",
-    "genre": "Indie Rock",
-    "count": "15",
-    "year": "1995"
-  },
-  {
-    "name": "Fried Out Broken Girl",
-    "time": "3:29",
     "artist": "Eric Matthews",
     "album": "It's Heavy In Here",
     "genre": "Indie Rock",
@@ -6154,6 +6199,15 @@
     "genre": "Hip-Hop/Rap",
     "count": "15",
     "year": "2014"
+  },
+  {
+    "name": "Babes of the 80S",
+    "time": "5:41",
+    "artist": "Lebanon Hanover",
+    "album": "Babes of the 80'S - EP",
+    "genre": "Alternative",
+    "count": "15",
+    "year": "2016"
   },
   {
     "name": "Poison Ivy (feat. Tilla)",
@@ -6228,15 +6282,6 @@
     "year": "2006"
   },
   {
-    "name": "So Lucky",
-    "time": "4:12",
-    "artist": "Magazine",
-    "album": "Magic, Murder and the Weather",
-    "genre": "Alternative",
-    "count": "15",
-    "year": "1981"
-  },
-  {
     "name": "Come Alive",
     "time": "3:43",
     "artist": "Magazine",
@@ -6276,7 +6321,7 @@
     "name": "Love Dub",
     "time": "3:49",
     "artist": "Morcheeba",
-    "album": "Blaze Away (Deluxe Version)",
+    "album": "Blaze Away",
     "genre": "Pop",
     "count": "15",
     "year": "2018"
@@ -6285,7 +6330,7 @@
     "name": "Paris Sur Mer (feat. Benjamin Biolay)",
     "time": "4:33",
     "artist": "Morcheeba",
-    "album": "Blaze Away (Deluxe Version)",
+    "album": "Blaze Away",
     "genre": "Pop",
     "count": "15",
     "year": "2018"
@@ -6357,7 +6402,7 @@
     "name": "cardigan",
     "time": "4:00",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "15",
     "year": "2020"
@@ -6366,7 +6411,7 @@
     "name": "august",
     "time": "4:22",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "15",
     "year": "2020"
@@ -6426,15 +6471,6 @@
     "year": "2009"
   },
   {
-    "name": "Radian",
-    "time": "7:38",
-    "artist": "Air",
-    "album": "10,000 Hz Legend",
-    "genre": "Electronica",
-    "count": "14",
-    "year": "2001"
-  },
-  {
     "name": "Caramel Prisoner",
     "time": "4:58",
     "artist": "Air",
@@ -6444,15 +6480,6 @@
     "year": "2001"
   },
   {
-    "name": "Dixieland Delight",
-    "time": "5:26",
-    "artist": "Alabama",
-    "album": "Closer You Get",
-    "genre": "Country",
-    "count": "14",
-    "year": "1983"
-  },
-  {
     "name": "Posse in Effect",
     "time": "2:26",
     "artist": "Beastie Boys",
@@ -6460,6 +6487,15 @@
     "genre": "Rap & Hip-Hop",
     "count": "14",
     "year": "1986"
+  },
+  {
+    "name": "Modern Guilt",
+    "time": "3:12",
+    "artist": "Beck",
+    "album": "Modern Guilt",
+    "genre": "Alternative",
+    "count": "14",
+    "year": "2008"
   },
   {
     "name": "Seymour Stein",
@@ -6489,13 +6525,13 @@
     "year": "1996"
   },
   {
-    "name": "Act Of The Apostle",
-    "time": "2:56",
+    "name": "Like Dylan In The Movies",
+    "time": "4:14",
     "artist": "Belle & Sebastian",
-    "album": "The Life Pursuit",
+    "album": "If You're Feeling Sinister",
     "genre": "Indie Rock",
     "count": "14",
-    "year": "2006"
+    "year": "1996"
   },
   {
     "name": "Sad Dress",
@@ -6510,7 +6546,7 @@
     "name": "Easy Skanking",
     "time": "2:56",
     "artist": "Bob Marley & The Wailers",
-    "album": "Kaya (Deluxe Edition)",
+    "album": "Kaya",
     "genre": "Reggae",
     "count": "14",
     "year": "2013"
@@ -6534,6 +6570,15 @@
     "year": "1990"
   },
   {
+    "name": "1/1",
+    "time": "17:22",
+    "artist": "Brian Eno",
+    "album": "Ambient 1: Music for Airports",
+    "genre": "Electronic",
+    "count": "14",
+    "year": "1978"
+  },
+  {
     "name": "Locos",
     "time": "3:18",
     "artist": "Cypress Hill",
@@ -6545,15 +6590,6 @@
   {
     "name": "Five Years",
     "time": "4:44",
-    "artist": "David Bowie",
-    "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
-    "genre": "Rock",
-    "count": "14",
-    "year": "1972"
-  },
-  {
-    "name": "Lady Stardust",
-    "time": "3:21",
     "artist": "David Bowie",
     "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
     "genre": "Rock",
@@ -6591,7 +6627,7 @@
     "name": "Violence (Club Mix)",
     "time": "4:12",
     "artist": "Grimes & i_o",
-    "album": "Miss Anthropocene (Deluxe Edition)",
+    "album": "Miss Anthropocene",
     "genre": "Electronic",
     "count": "14",
     "year": "2019"
@@ -6631,15 +6667,6 @@
     "genre": "Alternative",
     "count": "14",
     "year": "2019"
-  },
-  {
-    "name": "Babes of the 80S",
-    "time": "5:41",
-    "artist": "Lebanon Hanover",
-    "album": "Babes of the 80'S - EP",
-    "genre": "Alternative",
-    "count": "14",
-    "year": "2016"
   },
   {
     "name": "Boss",
@@ -6726,7 +6753,7 @@
     "name": "Blaze Away (feat. Roots Manuva)",
     "time": "4:04",
     "artist": "Morcheeba",
-    "album": "Blaze Away (Deluxe Version)",
+    "album": "Blaze Away",
     "genre": "Pop",
     "count": "14",
     "year": "2018"
@@ -6735,7 +6762,7 @@
     "name": "Find Another Way",
     "time": "3:31",
     "artist": "Morcheeba",
-    "album": "Blaze Away (Deluxe Version)",
+    "album": "Blaze Away",
     "genre": "Pop",
     "count": "14",
     "year": "2018"
@@ -6744,7 +6771,7 @@
     "name": "All the Young Dudes",
     "time": "3:31",
     "artist": "Mott the Hoople",
-    "album": "All the Young Dudes (Legacy Edition)",
+    "album": "All the Young Dudes",
     "genre": "Rock",
     "count": "14",
     "year": "1972"
@@ -6762,7 +6789,7 @@
     "name": "Sparkling Diamonds",
     "time": "2:52",
     "artist": "Nicole Kidman, Jim Broadbent, Lara Mulcahy, Caroline O'Connor & Natalie Mendoza",
-    "album": "Music From Baz Luhrmann's Film Moulin Rouge (Original Motion Picture Soundtrack)",
+    "album": "Music From Baz Luhrmann's Film Moulin Rouge",
     "genre": "Soundtrack",
     "count": "14",
     "year": "2001"
@@ -6852,7 +6879,7 @@
     "name": "the 1",
     "time": "3:30",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "14",
     "year": "2020"
@@ -6861,7 +6888,7 @@
     "name": "my tears ricochet",
     "time": "4:16",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "14",
     "year": "2020"
@@ -6870,7 +6897,7 @@
     "name": "seven",
     "time": "3:29",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "14",
     "year": "2020"
@@ -6879,7 +6906,7 @@
     "name": "this is me trying",
     "time": "3:15",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "14",
     "year": "2020"
@@ -6906,7 +6933,7 @@
     "name": "Sunday Morning",
     "time": "2:56",
     "artist": "The Velvet Underground",
-    "album": "The Velvet Underground & Nico [Disc 1] [Stereo]",
+    "album": "The Velvet Underground & Nico",
     "genre": "Rock",
     "count": "14",
     "year": "1967"
@@ -6942,10 +6969,19 @@
     "name": "Brazil",
     "time": "0:41",
     "artist": "Wire",
-    "album": "Pink Flag (Remastered)",
+    "album": "Pink Flag",
     "genre": "Adult Alternative",
     "count": "14",
     "year": "1977"
+  },
+  {
+    "name": "This World (feat. Mozez)",
+    "time": "5:37",
+    "artist": "Zero 7",
+    "album": "Simple Things",
+    "genre": "Electronic",
+    "count": "14",
+    "year": "2001"
   },
   {
     "name": "Solastalgia",
@@ -7020,15 +7056,6 @@
     "year": "1992"
   },
   {
-    "name": "Modern Guilt",
-    "time": "3:12",
-    "artist": "Beck",
-    "album": "Modern Guilt",
-    "genre": "Alternative",
-    "count": "13",
-    "year": "2008"
-  },
-  {
     "name": "Simple Things",
     "time": "1:46",
     "artist": "Belle & Sebastian",
@@ -7036,15 +7063,6 @@
     "genre": "Indie Rock",
     "count": "13",
     "year": "1998"
-  },
-  {
-    "name": "Like Dylan In The Movies",
-    "time": "4:14",
-    "artist": "Belle & Sebastian",
-    "album": "If You're Feeling Sinister",
-    "genre": "Indie Rock",
-    "count": "13",
-    "year": "1996"
   },
   {
     "name": "The Blues Are Still Blue",
@@ -7119,15 +7137,6 @@
     "year": "1963"
   },
   {
-    "name": "1/1",
-    "time": "17:22",
-    "artist": "Brian Eno",
-    "album": "Ambient 1: Music for Airports",
-    "genre": "Electronic",
-    "count": "13",
-    "year": "1978"
-  },
-  {
     "name": "I Love My Dog",
     "time": "2:20",
     "artist": "Cat Stevens",
@@ -7176,7 +7185,7 @@
     "name": "Running Gun Blues",
     "time": "3:15",
     "artist": "David Bowie",
-    "album": "The Man Who Sold the World (2015 Remaster)",
+    "album": "The Man Who Sold the World",
     "genre": "Pop",
     "count": "13",
     "year": "1970"
@@ -7185,7 +7194,7 @@
     "name": "She Shook Me Cold",
     "time": "4:17",
     "artist": "David Bowie",
-    "album": "The Man Who Sold the World (2015 Remaster)",
+    "album": "The Man Who Sold the World",
     "genre": "Pop",
     "count": "13",
     "year": "1970"
@@ -7275,7 +7284,7 @@
     "name": "Gimme Danger [2023 Remaster] [Iggy Mix]",
     "time": "3:33",
     "artist": "Iggy & The Stooges",
-    "album": "Raw Power (Iggy Mix - 2023 Remaster)",
+    "album": "Raw Power",
     "genre": "Punk",
     "count": "13",
     "year": "1973"
@@ -7319,7 +7328,7 @@
   {
     "name": "Every Hour (feat. Sunday Service Choir)",
     "time": "1:52",
-    "artist": "Kanye West",
+    "artist": "Ye",
     "album": "JESUS IS KING",
     "genre": "Hip-Hop/Rap",
     "count": "13",
@@ -7554,7 +7563,7 @@
     "name": "the last great american dynasty",
     "time": "3:51",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "13",
     "year": "2020"
@@ -7563,7 +7572,7 @@
     "name": "illicit affairs",
     "time": "3:11",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "13",
     "year": "2020"
@@ -7572,7 +7581,7 @@
     "name": "invisible string",
     "time": "4:13",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "13",
     "year": "2020"
@@ -7581,7 +7590,7 @@
     "name": "mad woman",
     "time": "3:57",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "13",
     "year": "2020"
@@ -7590,7 +7599,7 @@
     "name": "betty",
     "time": "4:55",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "13",
     "year": "2020"
@@ -7599,7 +7608,7 @@
     "name": "the lakes (bonus track)",
     "time": "3:32",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "13",
     "year": "2020"
@@ -7635,7 +7644,7 @@
     "name": "Rhythm of the Night",
     "time": "3:49",
     "artist": "Valeria",
-    "album": "Music From Baz Luhrmann's Film Moulin Rouge (Original Motion Picture Soundtrack)",
+    "album": "Music From Baz Luhrmann's Film Moulin Rouge",
     "genre": "Soundtrack",
     "count": "13",
     "year": "2001"
@@ -7677,19 +7686,10 @@
     "year": "2001"
   },
   {
-    "name": "This World (feat. Mozez)",
-    "time": "5:37",
-    "artist": "Zero 7",
-    "album": "Simple Things",
-    "genre": "Electronic",
-    "count": "13",
-    "year": "2001"
-  },
-  {
     "name": "In the Waiting Line (feat. Sophie Barker)",
     "time": "4:32",
     "artist": "Zero 7",
-    "album": "Simple Things (Special Edition)",
+    "album": "Simple Things",
     "genre": "Electronic",
     "count": "13",
     "year": "1970"
@@ -7702,15 +7702,6 @@
     "genre": "Other",
     "count": "13",
     "year": "2004"
-  },
-  {
-    "name": "Saweetie - Best Friend (Lyrics) FT. Doja Cat _ That_s my bestfriend she a real bad bitch (320 kbps)",
-    "time": "2:36",
-    "artist": "",
-    "album": "",
-    "genre": "",
-    "count": "13",
-    "year": ""
   },
   {
     "name": "Kelly watch the stars",
@@ -7887,7 +7878,7 @@
     "name": "Satisfy My Soul",
     "time": "4:30",
     "artist": "Bob Marley & The Wailers",
-    "album": "Kaya (Deluxe Edition)",
+    "album": "Kaya",
     "genre": "Reggae",
     "count": "12",
     "year": "2013"
@@ -7965,6 +7956,15 @@
     "year": "2018"
   },
   {
+    "name": "Holy Mountain (Interval)",
+    "time": "1:16",
+    "artist": "Cypress Hill",
+    "album": "Elephants on Acid",
+    "genre": "Hip-Hop/Rap",
+    "count": "12",
+    "year": "2018"
+  },
+  {
     "name": "Falling Down",
     "time": "2:20",
     "artist": "Cypress Hill",
@@ -7995,7 +7995,7 @@
     "name": "Saviour Machine",
     "time": "4:30",
     "artist": "David Bowie",
-    "album": "The Man Who Sold the World (2015 Remaster)",
+    "album": "The Man Who Sold the World",
     "genre": "Pop",
     "count": "12",
     "year": "1970"
@@ -8055,6 +8055,15 @@
     "year": "1995"
   },
   {
+    "name": "Distant Mother Reality",
+    "time": "2:20",
+    "artist": "Eric Matthews",
+    "album": "It's Heavy In Here",
+    "genre": "Indie Rock",
+    "count": "12",
+    "year": "1995"
+  },
+  {
     "name": "So Long",
     "time": "3:31",
     "artist": "The Flesh Eaters",
@@ -8067,7 +8076,7 @@
     "name": "So Heavy I Fell Through the Earth (Algorithm Mix)",
     "time": "3:53",
     "artist": "Grimes",
-    "album": "Miss Anthropocene (Deluxe Edition)",
+    "album": "Miss Anthropocene",
     "genre": "Electronic",
     "count": "12",
     "year": "2019"
@@ -8139,7 +8148,7 @@
     "name": "Drive, She Said",
     "time": "4:35",
     "artist": "Julian Cope",
-    "album": "Peggy Suicide (Deluxe Edition)",
+    "album": "Peggy Suicide",
     "genre": "Rock",
     "count": "12",
     "year": "1991"
@@ -8238,7 +8247,7 @@
     "name": "Never Undo",
     "time": "3:45",
     "artist": "Morcheeba",
-    "album": "Blaze Away (Deluxe Version)",
+    "album": "Blaze Away",
     "genre": "Pop",
     "count": "12",
     "year": "2018"
@@ -8247,7 +8256,7 @@
     "name": "Free of Debris",
     "time": "1:04",
     "artist": "Morcheeba",
-    "album": "Blaze Away (Deluxe Version)",
+    "album": "Blaze Away",
     "genre": "Pop",
     "count": "12",
     "year": "2018"
@@ -8256,7 +8265,7 @@
     "name": "Mezcal Dream (feat. Amanda Zamolo)",
     "time": "4:46",
     "artist": "Morcheeba",
-    "album": "Blaze Away (Deluxe Version)",
+    "album": "Blaze Away",
     "genre": "Pop",
     "count": "12",
     "year": "2018"
@@ -8316,6 +8325,15 @@
     "year": "2005"
   },
   {
+    "name": "Teclo",
+    "time": "4:56",
+    "artist": "PJ Harvey",
+    "album": "To Bring You My Love",
+    "genre": "Rock",
+    "count": "12",
+    "year": "1995"
+  },
+  {
     "name": "Down by the Water",
     "time": "3:15",
     "artist": "PJ Harvey",
@@ -8328,7 +8346,7 @@
     "name": "Mardi Gras In New Orleans",
     "time": "2:57",
     "artist": "Professor Longhair",
-    "album": "Mardi Gras In Baton Rouge [Bonus Tracks]",
+    "album": "Mardi Gras In Baton Rouge",
     "genre": "R&B",
     "count": "12",
     "year": "1971"
@@ -8409,7 +8427,7 @@
     "name": "mirrorball",
     "time": "3:29",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "12",
     "year": "2020"
@@ -8418,7 +8436,7 @@
     "name": "epiphany",
     "time": "4:50",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "12",
     "year": "2020"
@@ -8427,7 +8445,7 @@
     "name": "peace",
     "time": "3:54",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "12",
     "year": "2020"
@@ -8436,7 +8454,7 @@
     "name": "hoax",
     "time": "3:40",
     "artist": "Taylor Swift",
-    "album": "folklore (deluxe version)",
+    "album": "folklore",
     "genre": "Alternative",
     "count": "12",
     "year": "2020"
@@ -8463,7 +8481,7 @@
     "name": "All Tomorrow's Parties",
     "time": "6:00",
     "artist": "The Velvet Underground",
-    "album": "The Velvet Underground & Nico [Disc 1] [Stereo]",
+    "album": "The Velvet Underground & Nico",
     "genre": "Rock",
     "count": "12",
     "year": "1967"
@@ -8490,7 +8508,7 @@
     "name": "This World",
     "time": "5:36",
     "artist": "Zero 7",
-    "album": "Simple Things (Bonus)",
+    "album": "Simple Things",
     "genre": "Trip Hop",
     "count": "12",
     "year": "2001"
@@ -8634,7 +8652,7 @@
     "name": "Crisis",
     "time": "3:54",
     "artist": "Bob Marley & The Wailers",
-    "album": "Kaya (Deluxe Edition)",
+    "album": "Kaya",
     "genre": "Reggae",
     "count": "11",
     "year": "2013"
@@ -8643,7 +8661,7 @@
     "name": "Time Will Tell",
     "time": "3:26",
     "artist": "Bob Marley & The Wailers",
-    "album": "Kaya (Deluxe Edition)",
+    "album": "Kaya",
     "genre": "Reggae",
     "count": "11",
     "year": "2013"
@@ -8652,7 +8670,7 @@
     "name": "Children of the Revolution",
     "time": "3:00",
     "artist": "Bono, Gavin Friday & Maurice Seezer",
-    "album": "Music From Baz Luhrmann's Film Moulin Rouge (Original Motion Picture Soundtrack)",
+    "album": "Music From Baz Luhrmann's Film Moulin Rouge",
     "genre": "Soundtrack",
     "count": "11",
     "year": "2001"
@@ -8697,7 +8715,7 @@
     "name": "Bardo Plane",
     "time": "3:32",
     "artist": "Crispy Ambulance",
-    "album": "The Plateau Phase (Remastered)",
+    "album": "The Plateau Phase",
     "genre": "Alternative",
     "count": "11",
     "year": "1982"
@@ -8705,15 +8723,6 @@
   {
     "name": "LSD (Interval)",
     "time": "0:37",
-    "artist": "Cypress Hill",
-    "album": "Elephants on Acid",
-    "genre": "Hip-Hop/Rap",
-    "count": "11",
-    "year": "2018"
-  },
-  {
-    "name": "Holy Mountain (Interval)",
-    "time": "1:16",
     "artist": "Cypress Hill",
     "album": "Elephants on Acid",
     "genre": "Hip-Hop/Rap",
@@ -8742,7 +8751,7 @@
     "name": "Space Oddity",
     "time": "5:17",
     "artist": "David Bowie",
-    "album": "David Bowie (2015 Remaster)",
+    "album": "David Bowie",
     "genre": "Pop",
     "count": "11",
     "year": "1969"
@@ -8769,7 +8778,16 @@
     "name": "Fashion",
     "time": "4:50",
     "artist": "David Bowie",
-    "album": "Scary Monsters (And Super Creeps) [2017 Remaster]",
+    "album": "Scary Monsters",
+    "genre": "Pop",
+    "count": "11",
+    "year": "1980"
+  },
+  {
+    "name": "Scream Like a Baby",
+    "time": "3:37",
+    "artist": "David Bowie",
+    "album": "Scary Monsters",
     "genre": "Pop",
     "count": "11",
     "year": "1980"
@@ -8847,15 +8865,6 @@
     "year": "1995"
   },
   {
-    "name": "Distant Mother Reality",
-    "time": "2:20",
-    "artist": "Eric Matthews",
-    "album": "It's Heavy In Here",
-    "genre": "Indie Rock",
-    "count": "11",
-    "year": "1995"
-  },
-  {
     "name": "See You In the Boneyard",
     "time": "3:30",
     "artist": "The Flesh Eaters",
@@ -8868,7 +8877,7 @@
     "name": "My Name is Dark (Algorithm Mix)",
     "time": "4:04",
     "artist": "Grimes",
-    "album": "Miss Anthropocene (Deluxe Edition)",
+    "album": "Miss Anthropocene",
     "genre": "Electronic",
     "count": "11",
     "year": "2020"
@@ -8877,7 +8886,7 @@
     "name": "IDORU (Algorithm Mix)",
     "time": "4:47",
     "artist": "Grimes",
-    "album": "Miss Anthropocene (Deluxe Edition)",
+    "album": "Miss Anthropocene",
     "genre": "Electronic",
     "count": "11",
     "year": "2020"
@@ -8890,6 +8899,15 @@
     "genre": "Hip-Hop/Rap",
     "count": "11",
     "year": "2017"
+  },
+  {
+    "name": "Search and Destroy [2023 Remaster] [Iggy Mix]",
+    "time": "3:30",
+    "artist": "Iggy & The Stooges",
+    "album": "Raw Power",
+    "genre": "Rock",
+    "count": "11",
+    "year": "1973"
   },
   {
     "name": "Thank You Boys",
@@ -8922,7 +8940,7 @@
     "name": "Safesurfer",
     "time": "8:05",
     "artist": "Julian Cope",
-    "album": "Peggy Suicide (Deluxe Edition)",
+    "album": "Peggy Suicide",
     "genre": "Rock",
     "count": "11",
     "year": "1991"
@@ -8931,7 +8949,7 @@
     "name": "Western Front 1992 C.E.",
     "time": "2:01",
     "artist": "Julian Cope",
-    "album": "Peggy Suicide (Deluxe Edition)",
+    "album": "Peggy Suicide",
     "genre": "Rock",
     "count": "11",
     "year": "1991"
@@ -8946,8 +8964,26 @@
     "year": "2019"
   },
   {
+    "name": "Therapy",
+    "time": "3:16",
+    "artist": "Little Simz",
+    "album": "GREY Area",
+    "genre": "Hip-Hop/Rap",
+    "count": "11",
+    "year": "2019"
+  },
+  {
     "name": "Shane",
     "time": "4:13",
+    "artist": "Liz Phair",
+    "album": "Whip-Smart",
+    "genre": "Alternative & Punk",
+    "count": "11",
+    "year": "1994"
+  },
+  {
+    "name": "Go West",
+    "time": "3:18",
     "artist": "Liz Phair",
     "album": "Whip-Smart",
     "genre": "Alternative & Punk",
@@ -9018,10 +9054,19 @@
     "year": "1984"
   },
   {
+    "name": "The Big Foist",
+    "time": "1:31",
+    "artist": "Minutemen",
+    "album": "Double Nickels On The Dime",
+    "genre": "Punk",
+    "count": "11",
+    "year": "1984"
+  },
+  {
     "name": "Set Your Sails",
     "time": "3:27",
     "artist": "Morcheeba",
-    "album": "Blaze Away (Deluxe Version)",
+    "album": "Blaze Away",
     "genre": "Pop",
     "count": "11",
     "year": "2018"
@@ -9099,19 +9144,10 @@
     "year": "1995"
   },
   {
-    "name": "Teclo",
-    "time": "4:56",
-    "artist": "PJ Harvey",
-    "album": "To Bring You My Love",
-    "genre": "Rock",
-    "count": "11",
-    "year": "1995"
-  },
-  {
     "name": "Doin' It",
     "time": "3:55",
     "artist": "Professor Longhair",
-    "album": "Mardi Gras In Baton Rouge [Bonus Tracks]",
+    "album": "Mardi Gras In Baton Rouge",
     "genre": "R&B",
     "count": "11",
     "year": "1972"
@@ -9133,6 +9169,15 @@
     "genre": "Hip-Hop/Rap",
     "count": "11",
     "year": "2017"
+  },
+  {
+    "name": "Anarchy In The UK",
+    "time": "3:34",
+    "artist": "Sex Pistols",
+    "album": "Flogging A Dead Horse",
+    "genre": "Punk",
+    "count": "11",
+    "year": "1977"
   },
   {
     "name": "The Sound Of Silence",
@@ -9237,7 +9282,7 @@
     "name": "Praying to the Aliens",
     "time": "4:00",
     "artist": "Tubeway Army & Gary Numan",
-    "album": "Replicas (Remastered)",
+    "album": "Replicas",
     "genre": "Alternative",
     "count": "11",
     "year": "1979"
@@ -9300,7 +9345,7 @@
     "name": "Salt Water Sound",
     "time": "5:31",
     "artist": "Zero 7",
-    "album": "Simple Things (Bonus)",
+    "album": "Simple Things",
     "genre": "Trip Hop",
     "count": "11",
     "year": "2001"
@@ -9486,10 +9531,28 @@
     "year": "1995"
   },
   {
+    "name": "Cover Me",
+    "time": "2:06",
+    "artist": "Björk",
+    "album": "Post",
+    "genre": "Pop",
+    "count": "10",
+    "year": "1995"
+  },
+  {
+    "name": "War Pigs/Luke's Wall",
+    "time": "7:58",
+    "artist": "Black Sabbath",
+    "album": "Paranoid",
+    "genre": "Metal",
+    "count": "10",
+    "year": "1970"
+  },
+  {
     "name": "She's Gone",
     "time": "2:26",
     "artist": "Bob Marley & The Wailers",
-    "album": "Kaya (Deluxe Edition)",
+    "album": "Kaya",
     "genre": "Reggae",
     "count": "10",
     "year": "2013"
@@ -9570,7 +9633,7 @@
     "name": "It's Your Thing (Single Version)",
     "time": "2:53",
     "artist": "Cold Grits",
-    "album": "What It Is! Funky Soul and Rare Grooves (1967-1977)",
+    "album": "What It Is! Funky Soul and Rare Grooves",
     "genre": "R&B/Soul",
     "count": "10",
     "year": "2006"
@@ -9666,19 +9729,10 @@
     "year": "1972"
   },
   {
-    "name": "Scream Like a Baby",
-    "time": "3:37",
-    "artist": "David Bowie",
-    "album": "Scary Monsters (And Super Creeps) [2017 Remaster]",
-    "genre": "Pop",
-    "count": "10",
-    "year": "1980"
-  },
-  {
     "name": "Kingdom Come",
     "time": "3:47",
     "artist": "David Bowie",
-    "album": "Scary Monsters (And Super Creeps) [2017 Remaster]",
+    "album": "Scary Monsters",
     "genre": "Pop",
     "count": "10",
     "year": "1980"
@@ -9711,6 +9765,15 @@
     "year": "2004"
   },
   {
+    "name": "16th & Valencia Roxy Music",
+    "time": "3:00",
+    "artist": "Devendra Banhart",
+    "album": "What Will We Be",
+    "genre": "Rock",
+    "count": "10",
+    "year": "2009"
+  },
+  {
     "name": "Spunky",
     "time": "3:11",
     "artist": "Eels",
@@ -9723,7 +9786,7 @@
     "name": "Drunk (And I Don't Wanna Go Home)",
     "time": "4:06",
     "artist": "Elle King & Miranda Lambert",
-    "album": "Drunk (And I Don't Wanna Go Home) - Single",
+    "album": "Drunk - Single",
     "genre": "Alternative",
     "count": "10",
     "year": "2021"
@@ -9756,19 +9819,19 @@
     "year": "1979"
   },
   {
-    "name": "Search and Destroy [2023 Remaster] [Iggy Mix]",
-    "time": "3:30",
-    "artist": "Iggy & The Stooges",
-    "album": "Raw Power (Iggy Mix - 2023 Remaster)",
-    "genre": "Rock",
+    "name": "Because We Can",
+    "time": "3:27",
+    "artist": "Fatboy Slim",
+    "album": "Music From Baz Luhrmann's Film Moulin Rouge",
+    "genre": "Soundtrack",
     "count": "10",
-    "year": "1973"
+    "year": "1998"
   },
   {
     "name": "Penetration [2023 Remaster] [Iggy Mix]",
     "time": "3:42",
     "artist": "Iggy & The Stooges",
-    "album": "Raw Power (Iggy Mix - 2023 Remaster)",
+    "album": "Raw Power",
     "genre": "Punk",
     "count": "10",
     "year": "1973"
@@ -9777,7 +9840,7 @@
     "name": "I Need Somebody [2023 Remaster] [Iggy Mix]",
     "time": "4:53",
     "artist": "Iggy & The Stooges",
-    "album": "Raw Power (Iggy Mix - 2023 Remaster)",
+    "album": "Raw Power",
     "genre": "Punk",
     "count": "10",
     "year": "1973"
@@ -9831,7 +9894,7 @@
     "name": "East Easy Rider",
     "time": "3:58",
     "artist": "Julian Cope",
-    "album": "Peggy Suicide (Deluxe Edition)",
+    "album": "Peggy Suicide",
     "genre": "Rock",
     "count": "10",
     "year": "1991"
@@ -9840,7 +9903,7 @@
     "name": "If You Loved Me At All",
     "time": "5:01",
     "artist": "Julian Cope",
-    "album": "Peggy Suicide (Deluxe Edition)",
+    "album": "Peggy Suicide",
     "genre": "Rock",
     "count": "10",
     "year": "1991"
@@ -9849,7 +9912,7 @@
     "name": "Soldier Blue",
     "time": "4:48",
     "artist": "Julian Cope",
-    "album": "Peggy Suicide (Deluxe Edition)",
+    "album": "Peggy Suicide",
     "genre": "Rock",
     "count": "10",
     "year": "1991"
@@ -9864,15 +9927,6 @@
     "year": "1975"
   },
   {
-    "name": "Therapy",
-    "time": "3:16",
-    "artist": "Little Simz",
-    "album": "GREY Area",
-    "genre": "Hip-Hop/Rap",
-    "count": "10",
-    "year": "2019"
-  },
-  {
     "name": "Flowers (feat. Michael Kiwanuka)",
     "time": "3:45",
     "artist": "Little Simz",
@@ -9880,15 +9934,6 @@
     "genre": "Hip-Hop/Rap",
     "count": "10",
     "year": "2019"
-  },
-  {
-    "name": "Go West",
-    "time": "3:18",
-    "artist": "Liz Phair",
-    "album": "Whip-Smart",
-    "genre": "Alternative & Punk",
-    "count": "10",
-    "year": "1994"
   },
   {
     "name": "Big Tall Man",
@@ -10008,28 +10053,10 @@
     "year": "1983"
   },
   {
-    "name": "The Big Foist",
-    "time": "1:31",
-    "artist": "Minutemen",
-    "album": "Double Nickels On The Dime",
-    "genre": "Punk",
-    "count": "10",
-    "year": "1984"
-  },
-  {
-    "name": "Tour Spiel",
-    "time": "2:57",
-    "artist": "Minutemen",
-    "album": "",
-    "genre": "",
-    "count": "10",
-    "year": ""
-  },
-  {
     "name": "Free of Debris (Kelpe Remix)",
     "time": "5:14",
     "artist": "Morcheeba",
-    "album": "Blaze Away (Deluxe Version)",
+    "album": "Blaze Away",
     "genre": "Pop",
     "count": "10",
     "year": "2019"
@@ -10038,7 +10065,7 @@
     "name": "Momma's Little Jewel",
     "time": "4:27",
     "artist": "Mott the Hoople",
-    "album": "All the Young Dudes (Expanded Edition)",
+    "album": "All the Young Dudes",
     "genre": "Rock",
     "count": "10",
     "year": "1972"
@@ -10125,17 +10152,17 @@
     "year": "2017"
   },
   {
-    "name": "Anarchy In The UK",
-    "time": "3:34",
-    "artist": "Sex Pistols",
-    "album": "Flogging A Dead Horse",
-    "genre": "Punk",
-    "count": "10",
-    "year": "1977"
-  },
-  {
     "name": "I Am A Rock",
     "time": "2:52",
+    "artist": "Simon & Garfunkel",
+    "album": "The Best Of Simon & Garfunkel",
+    "genre": "Pop",
+    "count": "10",
+    "year": "1966"
+  },
+  {
+    "name": "The Dangling Conversation",
+    "time": "2:39",
     "artist": "Simon & Garfunkel",
     "album": "The Best Of Simon & Garfunkel",
     "genre": "Pop",
@@ -10227,7 +10254,7 @@
     "name": "Femme Fatale",
     "time": "2:39",
     "artist": "The Velvet Underground",
-    "album": "The Velvet Underground & Nico [Disc 1] [Stereo]",
+    "album": "The Velvet Underground & Nico",
     "genre": "Rock",
     "count": "10",
     "year": "1967"
@@ -10236,7 +10263,7 @@
     "name": "Run Run Run",
     "time": "4:23",
     "artist": "The Velvet Underground",
-    "album": "The Velvet Underground & Nico [Disc 1] [Stereo]",
+    "album": "The Velvet Underground & Nico",
     "genre": "Rock",
     "count": "10",
     "year": "1967"
@@ -10245,7 +10272,7 @@
     "name": "There She Goes Again",
     "time": "2:41",
     "artist": "The Velvet Underground",
-    "album": "The Velvet Underground & Nico [Disc 1] [Stereo]",
+    "album": "The Velvet Underground & Nico",
     "genre": "Rock",
     "count": "10",
     "year": "1967"
@@ -10285,6 +10312,24 @@
     "genre": "Electronic",
     "count": "9",
     "year": "1998"
+  },
+  {
+    "name": "Alpha Beta Gaga",
+    "time": "4:40",
+    "artist": "Air",
+    "album": "Talkie Walkie",
+    "genre": "Electronic",
+    "count": "9",
+    "year": "2004"
+  },
+  {
+    "name": "The Letter",
+    "time": "2:28",
+    "artist": "Al Green",
+    "album": "Green Is Blues",
+    "genre": "R&B",
+    "count": "9",
+    "year": "1969"
   },
   {
     "name": "The Blue Nun",
@@ -10377,6 +10422,15 @@
     "year": "2003"
   },
   {
+    "name": "For The Price Of A Cup Of Tea",
+    "time": "3:20",
+    "artist": "Belle & Sebastian",
+    "album": "The Life Pursuit",
+    "genre": "Indie Rock",
+    "count": "9",
+    "year": "2006"
+  },
+  {
     "name": "She's Losing It",
     "time": "2:22",
     "artist": "Belle & Sebastian",
@@ -10420,24 +10474,6 @@
     "genre": "Pop",
     "count": "9",
     "year": "1995"
-  },
-  {
-    "name": "Cover Me",
-    "time": "2:06",
-    "artist": "Björk",
-    "album": "Post",
-    "genre": "Pop",
-    "count": "9",
-    "year": "1995"
-  },
-  {
-    "name": "War Pigs/Luke's Wall",
-    "time": "7:58",
-    "artist": "Black Sabbath",
-    "album": "Paranoid",
-    "genre": "Metal",
-    "count": "9",
-    "year": "1970"
   },
   {
     "name": "Hooked On a Feeling",
@@ -10683,15 +10719,6 @@
     "year": "2009"
   },
   {
-    "name": "16th & Valencia Roxy Music",
-    "time": "3:00",
-    "artist": "Devendra Banhart",
-    "album": "What Will We Be",
-    "genre": "Rock",
-    "count": "9",
-    "year": "2009"
-  },
-  {
     "name": "Traveling Mood",
     "time": "2:48",
     "artist": "Dr. John",
@@ -10744,15 +10771,6 @@
     "genre": "Indie Rock",
     "count": "9",
     "year": "1979"
-  },
-  {
-    "name": "Because We Can",
-    "time": "3:27",
-    "artist": "Fatboy Slim",
-    "album": "Music From Baz Luhrmann's Film Moulin Rouge (Original Motion Picture Soundtrack)",
-    "genre": "Soundtrack",
-    "count": "9",
-    "year": "1998"
   },
   {
     "name": "Pray Till You Sweat",
@@ -11133,15 +11151,6 @@
     "year": "2008"
   },
   {
-    "name": "The Dangling Conversation",
-    "time": "2:39",
-    "artist": "Simon & Garfunkel",
-    "album": "The Best Of Simon & Garfunkel",
-    "genre": "Pop",
-    "count": "9",
-    "year": "1966"
-  },
-  {
     "name": "Old Friends/Bookends",
     "time": "3:58",
     "artist": "Simon & Garfunkel",
@@ -11313,6 +11322,15 @@
     "year": "2009"
   },
   {
+    "name": "Heaven's Light",
+    "time": "3:53",
+    "artist": "Air",
+    "album": "Love 2",
+    "genre": "Electronic",
+    "count": "8",
+    "year": "2009"
+  },
+  {
     "name": "Sexy boy",
     "time": "4:59",
     "artist": "Air",
@@ -11331,15 +11349,6 @@
     "year": "2004"
   },
   {
-    "name": "Alpha Beta Gaga",
-    "time": "4:40",
-    "artist": "Air",
-    "album": "Talkie Walkie",
-    "genre": "Electronic",
-    "count": "8",
-    "year": "2004"
-  },
-  {
     "name": "Dirty Trip",
     "time": "6:13",
     "artist": "Air",
@@ -11347,15 +11356,6 @@
     "genre": "Electronic",
     "count": "8",
     "year": ""
-  },
-  {
-    "name": "The Letter",
-    "time": "2:28",
-    "artist": "Al Green",
-    "album": "Green Is Blues",
-    "genre": "R&B",
-    "count": "8",
-    "year": "1969"
   },
   {
     "name": "Rhymin & Stealin",
@@ -11428,15 +11428,6 @@
     "genre": "Indie Rock",
     "count": "8",
     "year": "2002"
-  },
-  {
-    "name": "For The Price Of A Cup Of Tea",
-    "time": "3:20",
-    "artist": "Belle & Sebastian",
-    "album": "The Life Pursuit",
-    "genre": "Indie Rock",
-    "count": "8",
-    "year": "2006"
   },
   {
     "name": "Unravel",
@@ -11709,6 +11700,15 @@
     "year": "2004"
   },
   {
+    "name": "Maria Lionza",
+    "time": "5:50",
+    "artist": "Devendra Banhart",
+    "album": "What Will We Be",
+    "genre": "Rock",
+    "count": "8",
+    "year": "2009"
+  },
+  {
     "name": "Pay It Back",
     "time": "2:34",
     "artist": "Elvis Costello",
@@ -11720,6 +11720,15 @@
   {
     "name": "When I Was Cruel, No. 2",
     "time": "7:07",
+    "artist": "Elvis Costello",
+    "album": "When I Was Cruel",
+    "genre": "Alternative",
+    "count": "8",
+    "year": "2002"
+  },
+  {
+    "name": "15 Petals",
+    "time": "4:01",
     "artist": "Elvis Costello",
     "album": "When I Was Cruel",
     "genre": "Alternative",
@@ -11934,6 +11943,15 @@
     "year": "1984"
   },
   {
+    "name": "Themselves",
+    "time": "1:18",
+    "artist": "Minutemen",
+    "album": "Double Nickels On The Dime",
+    "genre": "Punk",
+    "count": "8",
+    "year": "1984"
+  },
+  {
     "name": "Set Your Sails (Faltydl Remix)",
     "time": "4:00",
     "artist": "Morcheeba",
@@ -11997,6 +12015,15 @@
     "year": "2002"
   },
   {
+    "name": "Rosie's Lullaby",
+    "time": "3:57",
+    "artist": "Norah Jones",
+    "album": "Not Too Late",
+    "genre": "Pop",
+    "count": "8",
+    "year": "2007"
+  },
+  {
     "name": "brutal",
     "time": "2:24",
     "artist": "Olivia Rodrigo",
@@ -12051,6 +12078,15 @@
     "year": "1972"
   },
   {
+    "name": "Whole Lotta Loving",
+    "time": "2:47",
+    "artist": "Professor Longhair",
+    "album": "Mardi Gras In Baton Rouge [Bonus Tracks]",
+    "genre": "R&B",
+    "count": "8",
+    "year": "1971"
+  },
+  {
     "name": "Just",
     "time": "3:54",
     "artist": "Radiohead",
@@ -12078,6 +12114,15 @@
     "year": "1971"
   },
   {
+    "name": "Troy",
+    "time": "6:31",
+    "artist": "Sinéad O'Connor",
+    "album": "Lion and the Cobra",
+    "genre": "Pop",
+    "count": "8",
+    "year": "1987"
+  },
+  {
     "name": "I Want Your (Hands on Me)",
     "time": "4:39",
     "artist": "Sinéad O'Connor",
@@ -12103,15 +12148,6 @@
     "genre": "Vocal Jazz",
     "count": "8",
     "year": "2016"
-  },
-  {
-    "name": "The Raven",
-    "time": "5:08",
-    "artist": "Stranglers",
-    "album": "",
-    "genre": "",
-    "count": "8",
-    "year": ""
   },
   {
     "name": "Wrong Way",
@@ -12240,15 +12276,6 @@
     "year": "2009"
   },
   {
-    "name": "Heaven's Light",
-    "time": "3:53",
-    "artist": "Air",
-    "album": "Love 2",
-    "genre": "Electronic",
-    "count": "7",
-    "year": "2009"
-  },
-  {
     "name": "Somewhere Between Waking And Sleeping",
     "time": "3:36",
     "artist": "Air",
@@ -12310,6 +12337,15 @@
     "genre": "Rock",
     "count": "7",
     "year": "1965"
+  },
+  {
+    "name": "E-Pro",
+    "time": "3:22",
+    "artist": "Beck",
+    "album": "Guero",
+    "genre": "Alternative",
+    "count": "7",
+    "year": "2005"
   },
   {
     "name": "Hell Yes",
@@ -12429,6 +12465,15 @@
     "year": "2003"
   },
   {
+    "name": "If You Find Yourself Caught In Love",
+    "time": "4:16",
+    "artist": "Belle & Sebastian",
+    "album": "Dear Catastrophe Waitress",
+    "genre": "Indie Rock",
+    "count": "7",
+    "year": "2003"
+  },
+  {
     "name": "Act Of The Apostle II",
     "time": "4:21",
     "artist": "Belle & Sebastian",
@@ -12519,6 +12564,15 @@
     "year": "1993"
   },
   {
+    "name": "When I win The Lottery",
+    "time": "3:38",
+    "artist": "Camper Van Beethoven",
+    "album": "Key Lime Pie",
+    "genre": "Rock",
+    "count": "7",
+    "year": "1989"
+  },
+  {
     "name": "Party of Special Things to Do",
     "time": "2:46",
     "artist": "Captain Beefheart",
@@ -12535,6 +12589,15 @@
     "genre": "Rock",
     "count": "7",
     "year": "1999"
+  },
+  {
+    "name": "Brand New Cadillac",
+    "time": "2:08",
+    "artist": "The Clash",
+    "album": "London Calling",
+    "genre": "Punk",
+    "count": "7",
+    "year": "1979"
   },
   {
     "name": "The Wind Season",
@@ -12672,15 +12735,6 @@
     "year": "2009"
   },
   {
-    "name": "Maria Lionza",
-    "time": "5:50",
-    "artist": "Devendra Banhart",
-    "album": "What Will We Be",
-    "genre": "Rock",
-    "count": "7",
-    "year": "2009"
-  },
-  {
     "name": "Right Place Wrong Time",
     "time": "2:52",
     "artist": "Dr. John",
@@ -12697,15 +12751,6 @@
     "genre": "Rock",
     "count": "7",
     "year": "1979"
-  },
-  {
-    "name": "15 Petals",
-    "time": "4:01",
-    "artist": "Elvis Costello",
-    "album": "When I Was Cruel",
-    "genre": "Alternative",
-    "count": "7",
-    "year": "2002"
   },
   {
     "name": "Em Calls Paul (Skit)",
@@ -13005,15 +13050,6 @@
     "year": "1960"
   },
   {
-    "name": "Themselves",
-    "time": "1:18",
-    "artist": "Minutemen",
-    "album": "Double Nickels On The Dime",
-    "genre": "Punk",
-    "count": "7",
-    "year": "1984"
-  },
-  {
     "name": "Untitled Song For Latin America",
     "time": "2:04",
     "artist": "Minutemen",
@@ -13212,15 +13248,6 @@
     "year": "2007"
   },
   {
-    "name": "Rosie's Lullaby",
-    "time": "3:57",
-    "artist": "Norah Jones",
-    "album": "Not Too Late",
-    "genre": "Pop",
-    "count": "7",
-    "year": "2007"
-  },
-  {
     "name": "Model Of Kindness",
     "time": "4:16",
     "artist": "Peter Blegvad",
@@ -13320,15 +13347,6 @@
     "year": "1972"
   },
   {
-    "name": "Whole Lotta Loving",
-    "time": "2:47",
-    "artist": "Professor Longhair",
-    "album": "Mardi Gras In Baton Rouge [Bonus Tracks]",
-    "genre": "R&B",
-    "count": "7",
-    "year": "1971"
-  },
-  {
     "name": "How Long Has That Train Been Gone",
     "time": "3:42",
     "artist": "Professor Longhair",
@@ -13338,8 +13356,26 @@
     "year": "1971"
   },
   {
+    "name": "Planet Telex",
+    "time": "4:18",
+    "artist": "Radiohead",
+    "album": "The Bends",
+    "genre": "Indie Rock",
+    "count": "7",
+    "year": "1995"
+  },
+  {
     "name": "Sit Down, Stand Up (Snakes & Ladders)",
     "time": "4:20",
+    "artist": "Radiohead",
+    "album": "Hail To The Thief",
+    "genre": "Indie Rock",
+    "count": "7",
+    "year": "2003"
+  },
+  {
+    "name": "Backdrifts (Honeymoon Is Over)",
+    "time": "5:23",
     "artist": "Radiohead",
     "album": "Hail To The Thief",
     "genre": "Indie Rock",
@@ -13376,15 +13412,6 @@
   {
     "name": "Jerusalem",
     "time": "4:17",
-    "artist": "Sinéad O'Connor",
-    "album": "Lion and the Cobra",
-    "genre": "Pop",
-    "count": "7",
-    "year": "1987"
-  },
-  {
-    "name": "Troy",
-    "time": "6:31",
     "artist": "Sinéad O'Connor",
     "album": "Lion and the Cobra",
     "genre": "Pop",
@@ -13444,6 +13471,15 @@
     "genre": "Ska",
     "count": "7",
     "year": "1996"
+  },
+  {
+    "name": "Mambo Sun",
+    "time": "3:39",
+    "artist": "T.Rex",
+    "album": "Electric Warrior [30th Anniversary Special Edition]",
+    "genre": "",
+    "count": "7",
+    "year": "2001"
   },
   {
     "name": "Blank Space",
@@ -13752,6 +13788,15 @@
     "year": ""
   },
   {
+    "name": "How Does It Make You Feel?",
+    "time": "4:38",
+    "artist": "Air",
+    "album": "10,000 Hz Legend",
+    "genre": "Electronica",
+    "count": "6",
+    "year": "2001"
+  },
+  {
     "name": "Dixie Boy",
     "time": "4:20",
     "artist": "Alabama",
@@ -13831,15 +13876,6 @@
     "genre": "Rock",
     "count": "6",
     "year": "1965"
-  },
-  {
-    "name": "E-Pro",
-    "time": "3:22",
-    "artist": "Beck",
-    "album": "Guero",
-    "genre": "Alternative",
-    "count": "6",
-    "year": "2005"
   },
   {
     "name": "Sweet Sunshine",
@@ -13943,15 +13979,6 @@
   {
     "name": "Dear Catastrophe Waitress",
     "time": "2:23",
-    "artist": "Belle & Sebastian",
-    "album": "Dear Catastrophe Waitress",
-    "genre": "Indie Rock",
-    "count": "6",
-    "year": "2003"
-  },
-  {
-    "name": "If You Find Yourself Caught In Love",
-    "time": "4:16",
     "artist": "Belle & Sebastian",
     "album": "Dear Catastrophe Waitress",
     "genre": "Indie Rock",
@@ -14094,22 +14121,13 @@
     "year": "1968"
   },
   {
-    "name": "When I win The Lottery",
-    "time": "3:38",
-    "artist": "Camper Van Beethoven",
-    "album": "Key Lime Pie",
-    "genre": "Rock",
+    "name": "3005",
+    "time": "3:54",
+    "artist": "Childish Gambino",
+    "album": "Because the Internet",
+    "genre": "Hip-Hop/Rap",
     "count": "6",
-    "year": "1989"
-  },
-  {
-    "name": "Brand New Cadillac",
-    "time": "2:08",
-    "artist": "The Clash",
-    "album": "London Calling",
-    "genre": "Punk",
-    "count": "6",
-    "year": "1979"
+    "year": "2013"
   },
   {
     "name": "Spanish Bombs",
@@ -14202,6 +14220,15 @@
     "year": "1975"
   },
   {
+    "name": "Saltarello",
+    "time": "2:34",
+    "artist": "Dead Can Dance",
+    "album": "Aion",
+    "genre": "Indie Rock",
+    "count": "6",
+    "year": "1990"
+  },
+  {
     "name": "Queen Bee",
     "time": "2:45",
     "artist": "Devendra Banhart",
@@ -14222,6 +14249,24 @@
   {
     "name": "So Long Old Bean",
     "time": "2:54",
+    "artist": "Devendra Banhart",
+    "album": "Smokey Rolls Down Thunder Canyon",
+    "genre": "Folk",
+    "count": "6",
+    "year": "2007"
+  },
+  {
+    "name": "Seaside",
+    "time": "4:34",
+    "artist": "Devendra Banhart",
+    "album": "Smokey Rolls Down Thunder Canyon",
+    "genre": "Folk",
+    "count": "6",
+    "year": "2007"
+  },
+  {
+    "name": "The Other Woman",
+    "time": "3:47",
     "artist": "Devendra Banhart",
     "album": "Smokey Rolls Down Thunder Canyon",
     "genre": "Folk",
@@ -14337,6 +14382,15 @@
     "year": "1979"
   },
   {
+    "name": "Sorrow, Tears & Blood",
+    "time": "10:16",
+    "artist": "Fela Kuti",
+    "album": "The Best Of Fela Kuti",
+    "genre": "World",
+    "count": "6",
+    "year": "1977"
+  },
+  {
     "name": "The Child Comes First",
     "time": "1:17",
     "artist": "The Flesh Eaters",
@@ -14344,6 +14398,15 @@
     "genre": "Rock",
     "count": "6",
     "year": "1980"
+  },
+  {
+    "name": "Hotel California (Spanish Mix)",
+    "time": "5:47",
+    "artist": "Gipsy Kings",
+    "album": "¡Volaré! The Very Best of the Gipsy Kings",
+    "genre": "Latin",
+    "count": "6",
+    "year": "1999"
   },
   {
     "name": "Your Pretty Face Is Going to Hell [2023 Remaster] [Iggy Mix]",
@@ -14445,6 +14508,15 @@
     "year": "2004"
   },
   {
+    "name": "School Spirit",
+    "time": "3:02",
+    "artist": "Kanye West",
+    "album": "The College Dropout",
+    "genre": "Hip-Hop/Rap",
+    "count": "6",
+    "year": "2004"
+  },
+  {
     "name": "Gorgeous (feat. Kid Cudi & Raekwon)",
     "time": "5:58",
     "artist": "Kanye West",
@@ -14488,6 +14560,15 @@
     "genre": "Alternative",
     "count": "6",
     "year": "2010"
+  },
+  {
+    "name": "California",
+    "time": "3:12",
+    "artist": "Lorde",
+    "album": "Solar Power",
+    "genre": "Alternative",
+    "count": "6",
+    "year": "2021"
   },
   {
     "name": "Te Ao Mārama / Solar Power",
@@ -14841,24 +14922,6 @@
     "year": "2001"
   },
   {
-    "name": "Planet Telex",
-    "time": "4:18",
-    "artist": "Radiohead",
-    "album": "The Bends",
-    "genre": "Indie Rock",
-    "count": "6",
-    "year": "1995"
-  },
-  {
-    "name": "Backdrifts (Honeymoon Is Over)",
-    "time": "5:23",
-    "artist": "Radiohead",
-    "album": "Hail To The Thief",
-    "genre": "Indie Rock",
-    "count": "6",
-    "year": "2003"
-  },
-  {
     "name": "Jesus Coming (feat. Amber Navran)",
     "time": "6:20",
     "artist": "Rapsody",
@@ -14913,15 +14976,6 @@
     "year": "1993"
   },
   {
-    "name": "Hanging Around",
-    "time": "4:30",
-    "artist": "Stranglers",
-    "album": "",
-    "genre": "",
-    "count": "6",
-    "year": ""
-  },
-  {
     "name": "April 29, 1992 (Miami)",
     "time": "3:54",
     "artist": "Sublime",
@@ -14947,15 +15001,6 @@
     "genre": "Alternative",
     "count": "6",
     "year": "1992"
-  },
-  {
-    "name": "Mambo Sun",
-    "time": "3:39",
-    "artist": "T.Rex",
-    "album": "Electric Warrior [30th Anniversary Special Edition]",
-    "genre": "",
-    "count": "6",
-    "year": "2001"
   },
   {
     "name": "Style",
@@ -15181,15 +15226,6 @@
     "genre": "Electronic",
     "count": "5",
     "year": ""
-  },
-  {
-    "name": "How Does It Make You Feel?",
-    "time": "4:38",
-    "artist": "Air",
-    "album": "10,000 Hz Legend",
-    "genre": "Electronica",
-    "count": "5",
-    "year": "2001"
   },
   {
     "name": "Talk To Me",
@@ -15435,6 +15471,15 @@
     "year": "1998"
   },
   {
+    "name": "Bottle Of Blues",
+    "time": "4:56",
+    "artist": "Beck",
+    "album": "Mutations",
+    "genre": "Alternative & Punk",
+    "count": "5",
+    "year": "1998"
+  },
+  {
     "name": "Sing It Again",
     "time": "4:19",
     "artist": "Beck",
@@ -15633,15 +15678,6 @@
     "year": "2003"
   },
   {
-    "name": "3005",
-    "time": "3:54",
-    "artist": "Childish Gambino",
-    "album": "Because the Internet",
-    "genre": "Hip-Hop/Rap",
-    "count": "5",
-    "year": "2013"
-  },
-  {
     "name": "San Francisco Days",
     "time": "2:59",
     "artist": "Chris Isaak",
@@ -15703,15 +15739,6 @@
     "genre": "Alternative",
     "count": "5",
     "year": "1982"
-  },
-  {
-    "name": "The Presence",
-    "time": "13:02",
-    "artist": "Crispy Ambulance",
-    "album": "",
-    "genre": "",
-    "count": "5",
-    "year": ""
   },
   {
     "name": "Stay for a Bit",
@@ -15804,13 +15831,13 @@
     "year": "1975"
   },
   {
-    "name": "Saltarello",
-    "time": "2:34",
-    "artist": "Dead Can Dance",
-    "album": "Aion",
-    "genre": "Indie Rock",
+    "name": "Win",
+    "time": "4:48",
+    "artist": "David Bowie",
+    "album": "Young Americans (2016 Remaster)",
+    "genre": "Pop",
     "count": "5",
-    "year": "1990"
+    "year": "1975"
   },
   {
     "name": "Mephisto",
@@ -15838,24 +15865,6 @@
     "genre": "Alternative & Punk",
     "count": "5",
     "year": "2005"
-  },
-  {
-    "name": "Seaside",
-    "time": "4:34",
-    "artist": "Devendra Banhart",
-    "album": "Smokey Rolls Down Thunder Canyon",
-    "genre": "Folk",
-    "count": "5",
-    "year": "2007"
-  },
-  {
-    "name": "The Other Woman",
-    "time": "3:47",
-    "artist": "Devendra Banhart",
-    "album": "Smokey Rolls Down Thunder Canyon",
-    "genre": "Folk",
-    "count": "5",
-    "year": "2007"
   },
   {
     "name": "Last Song for B",
@@ -15912,6 +15921,15 @@
     "year": "1979"
   },
   {
+    "name": "Chemistry Class",
+    "time": "2:58",
+    "artist": "Elvis Costello",
+    "album": "Armed Forces",
+    "genre": "Rock",
+    "count": "5",
+    "year": "1979"
+  },
+  {
     "name": "Mystery Dance",
     "time": "1:38",
     "artist": "Elvis Costello",
@@ -15937,6 +15955,15 @@
     "genre": "Alternative",
     "count": "5",
     "year": "1980"
+  },
+  {
+    "name": "This Year's Girl",
+    "time": "3:23",
+    "artist": "Elvis Costello",
+    "album": "This Year's Model (Proper Deluxe Edition)",
+    "genre": "Rock",
+    "count": "5",
+    "year": "2008"
   },
   {
     "name": "Daddy Can I Turn This?",
@@ -16002,6 +16029,15 @@
     "year": "1979"
   },
   {
+    "name": "Music Scene",
+    "time": "8:01",
+    "artist": "The Fall",
+    "album": "Live at the Witch Trials",
+    "genre": "Indie Rock",
+    "count": "5",
+    "year": "1979"
+  },
+  {
     "name": "Mother - Sister! (Live, BBC Session)",
     "time": "3:08",
     "artist": "The Fall",
@@ -16038,15 +16074,6 @@
     "year": "2000"
   },
   {
-    "name": "Sorrow, Tears & Blood",
-    "time": "10:16",
-    "artist": "Fela Kuti",
-    "album": "The Best Of Fela Kuti",
-    "genre": "World",
-    "count": "5",
-    "year": "1977"
-  },
-  {
     "name": "ITT 2",
     "time": "13:42",
     "artist": "Fela Kuti",
@@ -16072,15 +16099,6 @@
     "genre": "Rock",
     "count": "5",
     "year": "1980"
-  },
-  {
-    "name": "Hotel California (Spanish Mix)",
-    "time": "5:47",
-    "artist": "Gipsy Kings",
-    "album": "¡Volaré! The Very Best of the Gipsy Kings",
-    "genre": "Latin",
-    "count": "5",
-    "year": "1999"
   },
   {
     "name": "Palaces Of Montezuma",
@@ -16281,11 +16299,11 @@
     "year": "2004"
   },
   {
-    "name": "School Spirit",
-    "time": "3:02",
+    "name": "School Spirit Skit 1",
+    "time": "1:19",
     "artist": "Kanye West",
     "album": "The College Dropout",
-    "genre": "Hip-Hop/Rap",
+    "genre": "Pop",
     "count": "5",
     "year": "2004"
   },
@@ -16297,6 +16315,15 @@
     "genre": "Hip-Hop/Rap",
     "count": "5",
     "year": "2005"
+  },
+  {
+    "name": "All of the Lights (Interlude)",
+    "time": "1:02",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "genre": "Hip-Hop/Rap",
+    "count": "5",
+    "year": "2010"
   },
   {
     "name": "August 10",
@@ -16360,15 +16387,6 @@
     "genre": "Rock",
     "count": "5",
     "year": "1995"
-  },
-  {
-    "name": "California",
-    "time": "3:12",
-    "artist": "Lorde",
-    "album": "Solar Power",
-    "genre": "Alternative",
-    "count": "5",
-    "year": "2021"
   },
   {
     "name": "The Man with the Axe",
@@ -16497,6 +16515,15 @@
     "year": "1995"
   },
   {
+    "name": "We're So Happy",
+    "time": "8:17",
+    "artist": "Medeski Martin & Wood",
+    "album": "Friday Afternoon In The Universe",
+    "genre": "Jazz",
+    "count": "5",
+    "year": "1995"
+  },
+  {
     "name": "Hanuman",
     "time": "6:22",
     "artist": "Medeski Scofield Martin & Wood",
@@ -16542,6 +16569,15 @@
     "year": "1969"
   },
   {
+    "name": "No Exchange",
+    "time": "1:52",
+    "artist": "Minutemen",
+    "album": "Double Nickels On The Dime",
+    "genre": "Punk",
+    "count": "5",
+    "year": "1984"
+  },
+  {
     "name": "Spillage",
     "time": "1:54",
     "artist": "Minutemen",
@@ -16553,6 +16589,15 @@
   {
     "name": "Sweet L.A. (Da Lata Remix)",
     "time": "2:58",
+    "artist": "Morcheeba",
+    "album": "Blaze Away (Deluxe Version)",
+    "genre": "Pop",
+    "count": "5",
+    "year": "2019"
+  },
+  {
+    "name": "Blaze Away (Gilligan Moss Remix)",
+    "time": "5:11",
     "artist": "Morcheeba",
     "album": "Blaze Away (Deluxe Version)",
     "genre": "Pop",
@@ -16596,6 +16641,15 @@
     "year": "1972"
   },
   {
+    "name": "Canta Libre",
+    "time": "5:29",
+    "artist": "Neil Diamond",
+    "album": "Hot August Night (Live) [Remastered]",
+    "genre": "Pop",
+    "count": "5",
+    "year": "1972"
+  },
+  {
     "name": "Song Sung Blue",
     "time": "4:53",
     "artist": "Neil Diamond",
@@ -16630,6 +16684,15 @@
     "genre": "Post Punk",
     "count": "5",
     "year": "1997"
+  },
+  {
+    "name": "Do You Love Me?",
+    "time": "5:56",
+    "artist": "Nick Cave & The Bad Seeds",
+    "album": "Let Love In",
+    "genre": "Indie Rock",
+    "count": "5",
+    "year": "1994"
   },
   {
     "name": "Jangling Jack",
@@ -16689,6 +16752,15 @@
     "name": "One Day I'll Fly Away",
     "time": "3:19",
     "artist": "Nicole Kidman",
+    "album": "Music From Baz Luhrmann's Film Moulin Rouge (Original Motion Picture Soundtrack)",
+    "genre": "Soundtrack",
+    "count": "5",
+    "year": "2001"
+  },
+  {
+    "name": "Come What May",
+    "time": "4:48",
+    "artist": "Nicole Kidman & Ewan McGregor",
     "album": "Music From Baz Luhrmann's Film Moulin Rouge (Original Motion Picture Soundtrack)",
     "genre": "Soundtrack",
     "count": "5",
@@ -16911,51 +16983,6 @@
     "year": "1979"
   },
   {
-    "name": "Vietnamerica",
-    "time": "4:03",
-    "artist": "Stranglers",
-    "album": "",
-    "genre": "",
-    "count": "5",
-    "year": ""
-  },
-  {
-    "name": "I Feel Like a Wog",
-    "time": "3:06",
-    "artist": "Stranglers",
-    "album": "",
-    "genre": "",
-    "count": "5",
-    "year": ""
-  },
-  {
-    "name": "Peaches",
-    "time": "4:09",
-    "artist": "Stranglers",
-    "album": "",
-    "genre": "",
-    "count": "5",
-    "year": ""
-  },
-  {
-    "name": "Bring On The Nubiles",
-    "time": "2:18",
-    "artist": "Stranglers",
-    "album": "",
-    "genre": "",
-    "count": "5",
-    "year": ""
-  },
-  {
-    "name": "Genetix",
-    "time": "5:16",
-    "artist": "Stranglers",
-    "album": "",
-    "genre": "",
-    "count": "5",
-    "year": ""
-  },
-  {
     "name": "What I Got",
     "time": "2:51",
     "artist": "Sublime",
@@ -17116,6 +17143,15 @@
     "genre": "Rock",
     "count": "5",
     "year": "1967"
+  },
+  {
+    "name": "I Can't Stand It",
+    "time": "3:23",
+    "artist": "The Velvet Underground",
+    "album": "VU",
+    "genre": "Rock",
+    "count": "5",
+    "year": "1985"
   },
   {
     "name": "Andy's Chest",
@@ -17507,15 +17543,6 @@
   {
     "name": "Tropicalia",
     "time": "3:21",
-    "artist": "Beck",
-    "album": "Mutations",
-    "genre": "Alternative & Punk",
-    "count": "4",
-    "year": "1998"
-  },
-  {
-    "name": "Bottle Of Blues",
-    "time": "4:56",
     "artist": "Beck",
     "album": "Mutations",
     "genre": "Alternative & Punk",
@@ -17949,7 +17976,7 @@
     "name": "Beauty and the Beast",
     "time": "3:37",
     "artist": "David Bowie",
-    "album": "Heroes (2017 Remaster)",
+    "album": "\"Heroes\" (2017 Remaster)",
     "genre": "Pop",
     "count": "4",
     "year": "1977"
@@ -17958,7 +17985,7 @@
     "name": "V-2 Schneider",
     "time": "3:11",
     "artist": "David Bowie",
-    "album": "Heroes (2017 Remaster)",
+    "album": "\"Heroes\" (2017 Remaster)",
     "genre": "Pop",
     "count": "4",
     "year": "1977"
@@ -18041,15 +18068,6 @@
     "artist": "David Bowie",
     "album": "Young Americans",
     "genre": "Soul",
-    "count": "4",
-    "year": "1975"
-  },
-  {
-    "name": "Win",
-    "time": "4:48",
-    "artist": "David Bowie",
-    "album": "Young Americans (2016 Remaster)",
-    "genre": "Pop",
     "count": "4",
     "year": "1975"
   },
@@ -18153,15 +18171,6 @@
     "year": "1979"
   },
   {
-    "name": "Chemistry Class",
-    "time": "2:58",
-    "artist": "Elvis Costello",
-    "album": "Armed Forces",
-    "genre": "Rock",
-    "count": "4",
-    "year": "1979"
-  },
-  {
     "name": "Clean Money",
     "time": "2:00",
     "artist": "Elvis Costello",
@@ -18209,15 +18218,6 @@
   {
     "name": "No Action",
     "time": "2:01",
-    "artist": "Elvis Costello",
-    "album": "This Year's Model (Proper Deluxe Edition)",
-    "genre": "Rock",
-    "count": "4",
-    "year": "2008"
-  },
-  {
-    "name": "This Year's Girl",
-    "time": "3:23",
     "artist": "Elvis Costello",
     "album": "This Year's Model (Proper Deluxe Edition)",
     "genre": "Rock",
@@ -18317,15 +18317,6 @@
   {
     "name": "Mother - Sister!",
     "time": "3:21",
-    "artist": "The Fall",
-    "album": "Live at the Witch Trials",
-    "genre": "Indie Rock",
-    "count": "4",
-    "year": "1979"
-  },
-  {
-    "name": "Music Scene",
-    "time": "8:01",
     "artist": "The Fall",
     "album": "Live at the Witch Trials",
     "genre": "Indie Rock",
@@ -18774,15 +18765,6 @@
     "year": "2004"
   },
   {
-    "name": "School Spirit Skit 1",
-    "time": "1:19",
-    "artist": "Kanye West",
-    "album": "The College Dropout",
-    "genre": "Pop",
-    "count": "4",
-    "year": "2004"
-  },
-  {
     "name": "School Spirit Skit 2",
     "time": "0:44",
     "artist": "Kanye West",
@@ -18817,15 +18799,6 @@
     "genre": "Hip-Hop/Rap",
     "count": "4",
     "year": "2005"
-  },
-  {
-    "name": "All of the Lights (Interlude)",
-    "time": "1:02",
-    "artist": "Kanye West",
-    "album": "My Beautiful Dark Twisted Fantasy",
-    "genre": "Hip-Hop/Rap",
-    "count": "4",
-    "year": "2010"
   },
   {
     "name": "Get Along",
@@ -19125,15 +19098,6 @@
     "year": "1996"
   },
   {
-    "name": "We're So Happy",
-    "time": "8:17",
-    "artist": "Medeski Martin & Wood",
-    "album": "Friday Afternoon In The Universe",
-    "genre": "Jazz",
-    "count": "4",
-    "year": "1995"
-  },
-  {
     "name": "Shack",
     "time": "3:06",
     "artist": "Medeski Martin & Wood",
@@ -19278,24 +19242,6 @@
     "year": "1984"
   },
   {
-    "name": "No Exchange",
-    "time": "1:52",
-    "artist": "Minutemen",
-    "album": "Double Nickels On The Dime",
-    "genre": "Punk",
-    "count": "4",
-    "year": "1984"
-  },
-  {
-    "name": "Blaze Away (Gilligan Moss Remix)",
-    "time": "5:11",
-    "artist": "Morcheeba",
-    "album": "Blaze Away (Deluxe Version)",
-    "genre": "Pop",
-    "count": "4",
-    "year": "2019"
-  },
-  {
     "name": "Prologue",
     "time": "3:07",
     "artist": "Neil Diamond",
@@ -19343,15 +19289,6 @@
   {
     "name": "Play Me",
     "time": "4:43",
-    "artist": "Neil Diamond",
-    "album": "Hot August Night (Live) [Remastered]",
-    "genre": "Pop",
-    "count": "4",
-    "year": "1972"
-  },
-  {
-    "name": "Canta Libre",
-    "time": "5:29",
     "artist": "Neil Diamond",
     "album": "Hot August Night (Live) [Remastered]",
     "genre": "Pop",
@@ -19420,15 +19357,6 @@
     "genre": "Post Punk",
     "count": "4",
     "year": "1992"
-  },
-  {
-    "name": "Do You Love Me?",
-    "time": "5:56",
-    "artist": "Nick Cave & The Bad Seeds",
-    "album": "Let Love In",
-    "genre": "Indie Rock",
-    "count": "4",
-    "year": "1994"
   },
   {
     "name": "Loverman",
@@ -19591,15 +19519,6 @@
     "genre": "Rock",
     "count": "4",
     "year": "1994"
-  },
-  {
-    "name": "Come What May",
-    "time": "4:48",
-    "artist": "Nicole Kidman & Ewan McGregor",
-    "album": "Music From Baz Luhrmann's Film Moulin Rouge (Original Motion Picture Soundtrack)",
-    "genre": "Soundtrack",
-    "count": "4",
-    "year": "2001"
   },
   {
     "name": "Elephant Love Medley",
@@ -20160,15 +20079,6 @@
     "year": "1967"
   },
   {
-    "name": "I Can't Stand It",
-    "time": "3:23",
-    "artist": "The Velvet Underground",
-    "album": "VU",
-    "genre": "Rock",
-    "count": "4",
-    "year": "1985"
-  },
-  {
     "name": "The World's A Mess, It's In My Kiss",
     "time": "4:30",
     "artist": "X",
@@ -20293,23 +20203,5 @@
     "genre": "Other",
     "count": "4",
     "year": "2004"
-  },
-  {
-    "name": "Khia - My Neck, My Back (My Neck, My Track Thomas The Tank Engine Remix)",
-    "time": "2:48",
-    "artist": "",
-    "album": "",
-    "genre": "",
-    "count": "4",
-    "year": ""
-  },
-  {
-    "name": "New Recording 3 copy",
-    "time": "0:02",
-    "artist": "",
-    "album": "",
-    "genre": "",
-    "count": "4",
-    "year": ""
   }
 ]

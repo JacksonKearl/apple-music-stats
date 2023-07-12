@@ -24,7 +24,16 @@ type ItemData = {
 }
 
 const stringToColor = (str: string) => {
-  let hashCode = 0
+  let hashCode = 0xdeadbeef
+  for (let i = 0; i < str.length; i++) {
+    hashCode = str.charCodeAt(i) + ((hashCode << 5) - hashCode)
+  }
+  for (let i = 0; i < str.length; i++) {
+    hashCode = str.charCodeAt(i) + ((hashCode << 5) - hashCode)
+  }
+  for (let i = 0; i < str.length; i++) {
+    hashCode = str.charCodeAt(i) + ((hashCode << 5) - hashCode)
+  }
   for (let i = 0; i < str.length; i++) {
     hashCode = str.charCodeAt(i) + ((hashCode << 5) - hashCode)
   }
@@ -101,8 +110,22 @@ const App: FunctionComponent<{
     primaryLabels.add(item[1].key)
     secondaryLabels.add(item[1].secondary)
   }
+  let labels
+  if (primary === "year") {
+    const years = [...primaryLabels].map((l) => +l)
+    const min = Math.min(...years)
+    const max = Math.max(...years)
+    console.log({ min, max })
+    labels = []
+    for (let i = min; i <= max; i++) {
+      labels.push("" + i)
+    }
+    labels.reverse()
+  } else {
+    labels = [...primaryLabels]
+  }
 
-  const labels = [...primaryLabels]
+  // const labels = primary === "year" ? [...primaryLabels] : [...primaryLabels]
   const indexLookup: Record<string, number> = {}
   labels.forEach((l, i) => (indexLookup[l] = i))
 
@@ -152,7 +175,7 @@ const App: FunctionComponent<{
   }
 
   return (
-    <div style={`flex-grow: 1; min-height: ${labels.length * 18}px`}>
+    <div style={`flex-grow: 1; min-height: ${labels.length * 20}px`}>
       <Bar data={data} options={options}></Bar>
     </div>
   )
@@ -236,7 +259,7 @@ export function Home() {
         >
           Import from clipboard (data stays local)
         </button>{" "}
-        <a href="/howto">How Do I Extract Data from Apple Music?</a>
+        <a href="/howto">How Do I Extract Data from Apple Music (etc.)?</a>
       </p>
       <App
         primary={primary}
