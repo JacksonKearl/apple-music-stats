@@ -8,9 +8,9 @@ export const HowTo: FunctionComponent = () => {
       }
     >
       <h1>Hello!</h1>
-      So here's how it works: you make a smart playlist on Apple Music with all
-      your songs you've listened to at least some (small, perhaps 0) number of
-      times.
+      So here's how it works: First, you make a smart playlist on Apple Music
+      with all your songs you've listened to at least some (small, perhaps 0)
+      number of times.
       <img src="/makeSmart.png"></img>
       <img src="/rules.png"></img>
       Next, go to the playlist you just made and reconfigure the view type to be
