@@ -222,55 +222,6 @@ const App: FunctionComponent<{
       ></UntypedPlot>
     </div>
   )
-
-  // const maxLabelLength = 18
-  // const options: ChartOptions<"bar"> = {
-  //   plugins: {},
-  //   maintainAspectRatio: false,
-  //   indexAxis: "y",
-  //   responsive: true,
-  //   resizeDelay: 250,
-  //   animation: false,
-  //   scales: {
-  //     x: {
-  //       stacked: true,
-  //       position: "top",
-  //       ticks: {
-  //         callback(tickValue) {
-  //           if (quantifier === "playTime") {
-  //             return tickValue + " hours"
-  //           }
-  //           return tickValue
-  //         },
-  //       },
-  //     },
-  //     y: {
-  //       stacked: true,
-  //       ticks: {
-  //         callback(l) {
-  //           const label = labels[l as number]
-  //           return label.length < maxLabelLength
-  //             ? label
-  //             : label.slice(0, maxLabelLength - 1) + "\u2026"
-  //         },
-  //         font: {
-  //           size: 12,
-  //         },
-  //       },
-  //     },
-  //   },
-  // }
-
-  // const data: ChartData<"bar"> = {
-  //   labels,
-  //   datasets,
-  // }
-
-  // return (
-  //   <div style={`flex-grow: 1; min-height: ${labels.length * 20}px`}>
-  //     <Bar data={data} options={options}></Bar>
-  //   </div>
-  // )
 }
 
 export function Home() {
@@ -391,12 +342,12 @@ export function Home() {
         data={data}
       ></App>
       <p style={"padding: 5px"}>
-        This uses <a href="https://www.chartjs.org/">Chart.js</a>,{" "}
-        <a href="https://react-chartjs-2.js.org/">react-chartjs-2</a>, and{" "}
+        This uses <a href="https://plotly.com/javascript/">plotly.js</a>, and{" "}
         <a href="https://preactjs.com/">preact</a>!{" "}
         <a href="https://github.com/JacksonKearl/apple-music-stats">
           View Source
-        </a>{" "}
+        </a>
+        {" | "}
         <a href="/privacy">Privacy Policy</a>
       </p>
     </>
