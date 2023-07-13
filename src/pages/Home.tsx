@@ -1,19 +1,46 @@
 import { useMemo, useState } from "preact/hooks"
 import { FunctionComponent } from "preact"
-import { Bar } from "react-chartjs-2"
-import { ChartData, ChartDataset, ChartOptions } from "chart.js"
-import {
-  Chart as ChartJS,
-  CategoryScale,
-  LinearScale,
-  BarElement,
-  Title,
-  Tooltip,
-} from "chart.js"
+import Plot from "react-plotly.js"
+
+// const useLocalState = <T extends string>(name: string, start: T) => {
+//   const [internal, setInternal] = useState<T>(
+//     (localStorage.getItem(name) ?? start) as T,
+//   )
+//   const setAll = (v: T) => {
+//     if (v && v !== start) {
+//       localStorage.set(name, v)
+//     } else {
+//       localStorage.delete(name)
+//     }
+//     setInternal(v)
+//   }
+//   return [internal, setAll]
+// }
+
+const useQueryState = <T extends string>(
+  name: string,
+  start: T,
+): [T, (v: T) => void] => {
+  const url = new URL(window.location.href)
+  const [internal, setInternal] = useState<T>(
+    (url.searchParams.get(name) ?? start) as T,
+  )
+
+  const setAll = (v: T) => {
+    const url = new URL(window.location.href)
+    if (v && v !== start) {
+      url.searchParams.set(name, v)
+    } else {
+      url.searchParams.delete(name)
+    }
+    window.history.replaceState(null, "null", url)
+    setInternal(v)
+  }
+
+  return [internal, setAll]
+}
 
 import myData from "../assets/data.json"
-
-ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip)
 
 type ItemData = {
   songCount: number
@@ -52,16 +79,14 @@ const App: FunctionComponent<{
   primary: Field
   breakout: Field
   quantifier: Quantifier
-  minPlays: number
+
   data: typeof myData
-}> = ({ breakout, primary, quantifier, minPlays, data: rawData }) => {
+}> = ({ breakout, primary, quantifier, data: rawData }) => {
   const record: Record<string, ItemData> = {}
   const primarySortKey: Record<string, number> = {}
   const totalSortKey: Record<string, number> = {}
 
   for (const datum of rawData) {
-    if (+datum.count < minPlays) continue
-
     datum.artist = datum.artist.replace(/Kanye West/, "Ye")
     datum.album = datum.album.replace(/\s*\(.*\)/, "")
     datum.album = datum.album.replace(/\s*\[.*\]/, "")
@@ -94,7 +119,7 @@ const App: FunctionComponent<{
   }
 
   for (const v of Object.values(record)) {
-    v.playTime = Math.round((v.playTime / 60 / 60) * 10) / 10
+    v.playTime = v.playTime / 60 / 60
   }
 
   const es = Object.entries(record)
@@ -103,8 +128,6 @@ const App: FunctionComponent<{
 
   const secondaryLabels = new Set<string>()
   const primaryLabels = new Set<string>()
-
-  const datasets: ChartDataset<"bar">[] = []
 
   for (const item of sorted) {
     primaryLabels.add(item[1].key)
@@ -129,6 +152,7 @@ const App: FunctionComponent<{
   const indexLookup: Record<string, number> = {}
   labels.forEach((l, i) => (indexLookup[l] = i))
 
+  const datasets: ChartDataset<"bar">[] = []
   for (const item of sorted) {
     const data = []
     const index = indexLookup[item[1].key]
@@ -148,64 +172,129 @@ const App: FunctionComponent<{
     sortKey: primarySortKey,
   })
 
+  const labelQuantifier = (v: number) =>
+    ({
+      playCount: breakout === "name" ? `${v} Plays` : `${v} Track Plays`,
+      playTime: `${Math.round(v * 100) / 100} Hours Played`,
+      songCount: `${v} Distinct Tracks`,
+    }[quantifier])
+
+  const plotlyData: Plotly.Data[] = sorted
+    .map(([id, data]) => ({
+      secondaryOrder: totalSortKey[id],
+      primaryOrder: primarySortKey[data.key],
+      data: {
+        type: "bar",
+        x: [data[quantifier]],
+        y: [data.key],
+        text: data.secondary,
+        textposition: "inside",
+        marker: { color: [stringToColor(data.secondary)] },
+        orientation: "h",
+        hovertext: `${data.secondary} | ${data.key} | ${labelQuantifier(
+          data[quantifier],
+        )}`,
+        hoverinfo: "text",
+      } satisfies Plotly.Data,
+    }))
+    .sort(({ secondaryOrder: a }, { secondaryOrder: b }) => b - a)
+    .sort(({ primaryOrder: a }, { primaryOrder: b }) => b - a)
+    .map(({ data }) => data)
   const maxLabelLength = 18
-  const options: ChartOptions<"bar"> = {
-    plugins: {},
-    maintainAspectRatio: false,
-    indexAxis: "y",
-    responsive: true,
-    resizeDelay: 250,
-    animation: false,
-    scales: {
-      x: {
-        stacked: true,
-        position: "top",
-        ticks: {
-          callback(tickValue) {
-            if (quantifier === "playTime") {
-              return tickValue + " hours"
-            }
-            return tickValue
-          },
-        },
-      },
-      y: {
-        stacked: true,
-        ticks: {
-          callback(l) {
-            const label = labels[l as number]
-            return label.length < maxLabelLength
-              ? label
-              : label.slice(0, maxLabelLength - 1) + "\u2026"
-          },
-          font: {
-            size: 12,
-          },
-        },
-      },
-    },
-  }
 
-  const data: ChartData<"bar"> = {
-    labels,
-    datasets,
-  }
-
+  const w = document.body.clientWidth
   return (
     <div style={`flex-grow: 1; min-height: ${labels.length * 20}px`}>
-      <Bar data={data} options={options}></Bar>
+      <Plot
+        data={plotlyData}
+        layout={{
+          showlegend: false,
+          barmode: "stack",
+
+          margin: {
+            l: primary === "year" ? 50 : 150,
+            r: 20,
+            b: 20,
+            t: 20,
+            pad: 4,
+          },
+          height: labels.length * 20,
+          width: w,
+          yaxis: {
+            autorange: primary === "year" ? undefined : "reversed",
+            ticktext: labels.map((label) =>
+              label.length < maxLabelLength
+                ? label
+                : label.slice(0, maxLabelLength - 1) + "\u2026",
+            ),
+            tickvals: labels,
+          },
+          xaxis: {
+            side: "top",
+            ticksuffix: quantifier === "playTime" ? " hours" : "",
+          },
+        }}
+        config={{ displayModeBar: false, responsive: true }}
+      ></Plot>
     </div>
   )
+
+  // const maxLabelLength = 18
+  // const options: ChartOptions<"bar"> = {
+  //   plugins: {},
+  //   maintainAspectRatio: false,
+  //   indexAxis: "y",
+  //   responsive: true,
+  //   resizeDelay: 250,
+  //   animation: false,
+  //   scales: {
+  //     x: {
+  //       stacked: true,
+  //       position: "top",
+  //       ticks: {
+  //         callback(tickValue) {
+  //           if (quantifier === "playTime") {
+  //             return tickValue + " hours"
+  //           }
+  //           return tickValue
+  //         },
+  //       },
+  //     },
+  //     y: {
+  //       stacked: true,
+  //       ticks: {
+  //         callback(l) {
+  //           const label = labels[l as number]
+  //           return label.length < maxLabelLength
+  //             ? label
+  //             : label.slice(0, maxLabelLength - 1) + "\u2026"
+  //         },
+  //         font: {
+  //           size: 12,
+  //         },
+  //       },
+  //     },
+  //   },
+  // }
+
+  // const data: ChartData<"bar"> = {
+  //   labels,
+  //   datasets,
+  // }
+
+  // return (
+  //   <div style={`flex-grow: 1; min-height: ${labels.length * 20}px`}>
+  //     <Bar data={data} options={options}></Bar>
+  //   </div>
+  // )
 }
 
 export function Home() {
-  const params = new URLSearchParams(document.location.search)
-  const uuid = params.get("id")
-
+  const [uuid, setUUID] = useQueryState<string>("id", "")
   const [source, setSource] = useState(uuid ? "saved" : "default")
   const [data, setData] = useState(uuid ? [] : myData)
 
-  const savedData = useMemo(async () => {
+  useMemo(async () => {
     if (uuid) {
       const resp = await fetch("/store?id=" + uuid)
       if (!resp.ok) {
@@ -217,22 +306,13 @@ export function Home() {
     }
   }, [uuid])
 
-  const [minPlays, setMinPlays] = useState(10)
-  const minPlaysInput = (
-    <input
-      type="number"
-      min={0}
-      step={1}
-      value={minPlays}
-      style={"width: 32px"}
-      onChange={(e) => setMinPlays(+e.currentTarget.value)}
-    ></input>
+  const [primary, setPrimary] = useQueryState<Field>("main", "artist")
+  const [breakout, setBreakout] = useQueryState<Field>("break", "album")
+  const [quantifier, setQuantifier] = useQueryState<Quantifier>(
+    "quant",
+    "playTime",
   )
 
-  const [primary, setPrimary] = useState<Field>("artist")
-  const [breakout, setBreakout] = useState<Field>("album")
-
-  const [quantifier, setQuantifier] = useState<Quantifier>("playTime")
   const valueSelector = (
     <select
       value={quantifier}
@@ -240,7 +320,7 @@ export function Home() {
     >
       <option value="playTime">Hours Played</option>
       <option value="playCount">Times Played</option>
-      <option value="songCount">Distinct Songs</option>
+      <option value="songCount">Distinct Tracks</option>
     </select>
   )
 
@@ -259,13 +339,11 @@ export function Home() {
       <p style={"padding: 5px"}>
         Grouped by {makeSelector(primary, setPrimary)}, broken out by{" "}
         {makeSelector(breakout, setBreakout)}, and quantified by {valueSelector}
-        .<br />
-        Only considering songs with at least {minPlaysInput} plays (lowering
-        this can make things sloooow).
+        .
         <br />
         {source === "clipboard" ? (
           <>
-            Using data from clipboard.
+            Using data from clipboard.{" "}
             <button
               onClick={async () => {
                 const resp = await fetch("/store", {
@@ -277,9 +355,7 @@ export function Home() {
                   return
                 }
                 const uuid = await resp.text()
-                const params = new URLSearchParams(document.location.search)
-                params.set("id", uuid)
-                document.location.search = params.toString()
+                setUUID(uuid)
               }}
             >
               Upload for shareable link
@@ -310,9 +386,14 @@ export function Home() {
                 ({ name, artist, album, count }) =>
                   name && artist && album && count,
               )
-            console.log({ data })
-            setData(data)
-            setSource("clipboard")
+            if (data.length) {
+              console.log({ data })
+              setUUID("")
+              setData(data)
+              setSource("clipboard")
+            } else {
+              alert("Error! Data in unexpected format. See instructions.")
+            }
           }}
         >
           Import from clipboard (data stays local)
@@ -323,7 +404,6 @@ export function Home() {
         primary={primary}
         breakout={breakout}
         quantifier={quantifier}
-        minPlays={minPlays}
         data={data}
       ></App>
       <p style={"padding: 5px"}>
@@ -332,7 +412,8 @@ export function Home() {
         <a href="https://preactjs.com/">preact</a>!{" "}
         <a href="https://github.com/JacksonKearl/apple-music-stats">
           View Source
-        </a>
+        </a>{" "}
+        <a href="/privacy">Privacy Policy</a>
       </p>
     </>
   )

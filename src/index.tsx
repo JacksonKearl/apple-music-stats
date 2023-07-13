@@ -4,6 +4,7 @@ import { Home } from "./pages/Home"
 import { NotFound } from "./pages/_404"
 import "./style.css"
 import { HowTo } from "./pages/HowTo"
+import { Privacy } from "./pages/Privacy"
 
 export function App() {
   return (
@@ -11,6 +12,7 @@ export function App() {
       <Router>
         <Route path="/" component={Home} />
         <Route path="/howto" component={HowTo} />
+        <Route path="/privacy" component={Privacy} />
         <Route default component={NotFound} />
       </Router>
     </LocationProvider>
