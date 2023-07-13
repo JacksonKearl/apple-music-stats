@@ -29,7 +29,8 @@ export const HowTo: FunctionComponent = () => {
       columns will not work.
       <img src="/order.png"></img>
       You're done! Use Cmd+A to select all the songs, then Cmd+C to copy them
-      into your clipboard.
+      into your clipboard. (Have a ton of songs here? You may get better
+      performance by limiting your selection to a few thousand. )
       <img src="/selected.png"></img>
       <a href="/">Home</a>
       Note: Listen somehow else? The site expects your clipboard to have this
