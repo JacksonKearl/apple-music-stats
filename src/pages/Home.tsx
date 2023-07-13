@@ -308,6 +308,14 @@ export function Home() {
         minPlays={minPlays}
         data={data}
       ></App>
+      <div>
+        This uses <a href="https://www.chartjs.org/">Chart.js</a>,{" "}
+        <a href="https://react-chartjs-2.js.org/">react-chartjs-2</a>, and{" "}
+        <a href="https://preactjs.com/">preact</a>!{" "}
+        <a href="https://github.com/JacksonKearl/apple-music-stats">
+          View Source
+        </a>
+      </div>
     </>
   )
 }
