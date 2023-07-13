@@ -30,8 +30,8 @@ export const HowTo: FunctionComponent = () => {
       <img src="/order.png"></img>
       You're done! Use Cmd+A to select all the songs, then Cmd+C to copy them
       into your clipboard. (Have a ton of songs here? You may get better
-      performance by limiting your selection to a few thousand. )
-      <img src="/selected.png"></img>
+      performance by sorting by play count then limiting your selection to a few
+      thousand. )<img src="/selected.png"></img>
       <a href="/">Home</a>
       Note: Listen somehow else? The site expects your clipboard to have this
       data in a simple tab separated values format. If you can manage to get
