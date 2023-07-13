@@ -26,7 +26,8 @@ export const HowTo: FunctionComponent = () => {
       <img src="/year.png"></img>
       The order of the columns <b style={"display: contents"}>must</b> be Title,
       Time, Artist, Album, Genre, Plays, Year. Any other order or different
-      columns will not work.
+      columns will not work. In particular, be sure there's no cloud icon
+      column.
       <img src="/order.png"></img>
       You're done! Use Cmd+A to select all the songs, then Cmd+C to copy them
       into your clipboard. (Have a ton of songs here? You may get better
