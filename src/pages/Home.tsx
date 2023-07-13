@@ -257,6 +257,7 @@ export function Home() {
                 })
                 if (!resp.ok) {
                   alert("There was an error uploading your data.")
+                  return
                 }
                 const uuid = await resp.text()
                 const params = new URLSearchParams(document.location.search)
