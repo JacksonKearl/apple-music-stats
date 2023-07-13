@@ -110,7 +110,8 @@ const App: FunctionComponent<{
     primaryLabels.add(item[1].key)
     secondaryLabels.add(item[1].secondary)
   }
-  let labels
+
+  let labels: string[]
   if (primary === "year") {
     const years = [...primaryLabels].map((l) => +l)
     const min = Math.min(...years)
@@ -125,7 +126,6 @@ const App: FunctionComponent<{
     labels = [...primaryLabels]
   }
 
-  // const labels = primary === "year" ? [...primaryLabels] : [...primaryLabels]
   const indexLookup: Record<string, number> = {}
   labels.forEach((l, i) => (indexLookup[l] = i))
 
@@ -148,6 +148,7 @@ const App: FunctionComponent<{
     sortKey: primarySortKey,
   })
 
+  const maxLabelLength = 18
   const options: ChartOptions<"bar"> = {
     plugins: {},
     maintainAspectRatio: false,
@@ -159,18 +160,34 @@ const App: FunctionComponent<{
       x: {
         stacked: true,
         position: "top",
+        ticks: {
+          callback(tickValue) {
+            if (quantifier === "playTime") {
+              return tickValue + " hours"
+            }
+            return tickValue
+          },
+        },
       },
       y: {
         stacked: true,
+        ticks: {
+          callback(l) {
+            const label = labels[l as number]
+            return label.length < maxLabelLength
+              ? label
+              : label.slice(0, maxLabelLength - 1) + "\u2026"
+          },
+          font: {
+            size: 12,
+          },
+        },
       },
     },
   }
 
-  const maxLabelLength = 25
   const data: ChartData<"bar"> = {
-    labels: labels.map((l) =>
-      l.length < maxLabelLength ? l : l.slice(0, maxLabelLength - 1) + "\u2026",
-    ),
+    labels,
     datasets,
   }
 
