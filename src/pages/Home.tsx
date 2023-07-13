@@ -183,39 +183,43 @@ const App: FunctionComponent<{
   const maxLabelLength = 18
 
   const w = document.body.clientWidth
+  const layout: Partial<Plotly.Layout> = {
+    showlegend: false,
+    barmode: "stack",
+
+    margin: {
+      l: primary === "year" ? 50 : 150,
+      r: 20,
+      b: 20,
+      t: 20,
+      pad: 4,
+    },
+    height: labels.length * 20,
+    width: w,
+    yaxis: {
+      autorange: primary === "year" ? undefined : "reversed",
+      ticktext: labels.map((label) =>
+        label.length < maxLabelLength
+          ? label
+          : label.slice(0, maxLabelLength - 1) + "\u2026",
+      ),
+      tickvals: labels,
+    },
+    xaxis: {
+      side: "top",
+      ticksuffix: quantifier === "playTime" ? " hours" : "",
+    },
+  }
+
+  // some bignum bullshit
+  const UntypedPlot = Plot as any
   return (
     <div style={`flex-grow: 1; min-height: ${labels.length * 20}px`}>
-      <Plot
+      <UntypedPlot
         data={plotlyData}
-        layout={{
-          showlegend: false,
-          barmode: "stack",
-
-          margin: {
-            l: primary === "year" ? 50 : 150,
-            r: 20,
-            b: 20,
-            t: 20,
-            pad: 4,
-          },
-          height: labels.length * 20,
-          width: w,
-          yaxis: {
-            autorange: primary === "year" ? undefined : "reversed",
-            ticktext: labels.map((label) =>
-              label.length < maxLabelLength
-                ? label
-                : label.slice(0, maxLabelLength - 1) + "\u2026",
-            ),
-            tickvals: labels,
-          },
-          xaxis: {
-            side: "top",
-            ticksuffix: quantifier === "playTime" ? " hours" : "",
-          },
-        }}
+        layout={layout}
         config={{ displayModeBar: false, responsive: true }}
-      ></Plot>
+      ></UntypedPlot>
     </div>
   )
 
