@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@cloudflare/workers-types": "^4.20230710.0",
     "chart.js": "^4.3.0",
     "preact": "^10.13.1",
     "preact-iso": "^2.3.1",

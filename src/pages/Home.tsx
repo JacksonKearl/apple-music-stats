@@ -1,4 +1,4 @@
-import { useState } from "preact/hooks"
+import { useMemo, useState } from "preact/hooks"
 import { FunctionComponent } from "preact"
 import { Bar } from "react-chartjs-2"
 import { ChartData, ChartDataset, ChartOptions } from "chart.js"
@@ -182,8 +182,23 @@ const App: FunctionComponent<{
 }
 
 export function Home() {
-  const [uploaded, setUploaded] = useState(false)
-  const [data, setData] = useState(myData)
+  const params = new URLSearchParams(document.location.search)
+  const uuid = params.get("id")
+
+  const [source, setSource] = useState(uuid ? "saved" : "default")
+  const [data, setData] = useState(uuid ? [] : myData)
+
+  const savedData = useMemo(async () => {
+    if (uuid) {
+      const resp = await fetch("/store?id=" + uuid)
+      if (!resp.ok) {
+        alert("There was an error accessing saved data.")
+      } else {
+        setData(await resp.json())
+        setSource("saved")
+      }
+    }
+  }, [uuid])
 
   const [minPlays, setMinPlays] = useState(10)
   const minPlaysInput = (
@@ -231,7 +246,32 @@ export function Home() {
         Only considering songs with at least {minPlaysInput} plays (lowering
         this can make things sloooow).
         <br />
-        {uploaded ? "Using data from clipboard." : "Using default data."}{" "}
+        {source === "clipboard" ? (
+          <>
+            Using data from clipboard.
+            <button
+              onClick={async () => {
+                const resp = await fetch("/store", {
+                  method: "POST",
+                  body: JSON.stringify(data),
+                })
+                if (!resp.ok) {
+                  alert("There was an error uploading your data.")
+                }
+                const uuid = await resp.text()
+                const params = new URLSearchParams(document.location.search)
+                params.set("id", uuid)
+                document.location.search = params.toString()
+              }}
+            >
+              Upload for shareable link
+            </button>
+          </>
+        ) : source === "default" ? (
+          "Using default data."
+        ) : (
+          "Using saved data."
+        )}{" "}
         <button
           onClick={async () => {
             const text = await navigator.clipboard.readText()
@@ -254,7 +294,7 @@ export function Home() {
               )
             console.log({ data })
             setData(data)
-            setUploaded(true)
+            setSource("clipboard")
           }}
         >
           Import from clipboard (data stays local)
