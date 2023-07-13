@@ -152,26 +152,6 @@ const App: FunctionComponent<{
   const indexLookup: Record<string, number> = {}
   labels.forEach((l, i) => (indexLookup[l] = i))
 
-  const datasets: ChartDataset<"bar">[] = []
-  for (const item of sorted) {
-    const data = []
-    const index = indexLookup[item[1].key]
-    data[index] = item[1][quantifier]
-    datasets.push({
-      label: item[1].secondary,
-      data,
-      order: -totalSortKey[item[0]],
-      backgroundColor: stringToColor(item[1].secondary),
-    })
-  }
-
-  console.log({
-    primaryLabels,
-    secondaryLabels,
-    datasets,
-    sortKey: primarySortKey,
-  })
-
   const labelQuantifier = (v: number) =>
     ({
       playCount: breakout === "name" ? `${v} Plays` : `${v} Track Plays`,
