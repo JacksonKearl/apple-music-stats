@@ -108,7 +108,7 @@ const App: FunctionComponent<{
     const [min, sec] = datum.time.split(":")
 
     record[lookup].songCount++
-    const playCount = +datum.count
+    const playCount = +datum.count.replace(/,/g, "")
     record[lookup].playCount += playCount
     const playTime = playCount * (+min * 60 + +sec)
     record[lookup].playTime += +playTime
@@ -159,7 +159,7 @@ const App: FunctionComponent<{
       songCount: `${v} Distinct Tracks`,
     }[quantifier])
 
-  const plotlyData: Plotly.Data[] = sorted
+  const plotlyData = sorted
     .map(([id, data]) => ({
       secondaryOrder: totalSortKey[id],
       primaryOrder: primarySortKey[data.key],
@@ -181,6 +181,15 @@ const App: FunctionComponent<{
     .sort(({ primaryOrder: a }, { primaryOrder: b }) => b - a)
     .map(({ data }) => data)
   const maxLabelLength = 18
+
+  console.log({
+    totalSortKey,
+    primarySortKey,
+    sorted,
+    primaryLabels,
+    secondaryLabels,
+    labels,
+  })
 
   const w = document.body.clientWidth
   const layout: Partial<Plotly.Layout> = {
