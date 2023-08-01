@@ -358,6 +358,8 @@ export function Home() {
         </a>
         {" | "}
         <a href="/privacy">Privacy Policy</a>
+        {" | "}
+        <a href="https://spotifystats.pages.dev">Spotify Version</a>
       </p>
     </>
   )
